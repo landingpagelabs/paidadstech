@@ -70,14 +70,5 @@
     "logo_url": "https://cdn.prod.website-files.com/697a570245fae17fd3243b26/697a69e6987e096391baff2b_image%203163%20(7).png",
     "image_url": "https://cdn.prod.website-files.com/697a570245fae17fd3243b26/697a69e8c603a8b8b91c7043_Rectangle%201000001844%20(7).png",
     "order": 8
-  },
-  {
-    "name": "Smartlead",
-    "slug": "smartlead-2",
-    "url": "https://smartlead.ai",
-    "category": "Business Growth",
-    "logo_url": "https://cdn.prod.website-files.com/697a570245fae17fd3243b26/697a6a1195cbab86b0fb3d1c_image%203163%20(8).png",
-    "image_url": "https://cdn.prod.website-files.com/697a570245fae17fd3243b26/697a6a202fdbd9ce972a6c1c_Rectangle%201000001844%20(8).png",
-    "order": 9
   }
 ]

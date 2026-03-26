@@ -10,7 +10,7 @@ Website: https://www.paidadstech.com
 - [Outreach Copywriting](https://www.paidadstech.com/category/outreach-copywriting/) (0 tools)
 - [GTM Engineering](https://www.paidadstech.com/category/gtm-engineering/) (0 tools)
 - [Email Deliverability](https://www.paidadstech.com/category/email-deliverability/) (2 tools)
-- [Business Growth](https://www.paidadstech.com/category/business-growth/) (2 tools)
+- [Business Growth](https://www.paidadstech.com/category/business-growth/) (1 tools)
 - [AI & Automation](https://www.paidadstech.com/category/ai-automation/) (5 tools)
 
 ## Tools
@@ -23,7 +23,6 @@ Website: https://www.paidadstech.com
 - [Kaspr](https://kaspr.io/?ref=paidadstech) — AI & Automation
 - [Lemlist](https://lemlist.com/?ref=paidadstech) — AI & Automation
 - [Smartlead](https://smartlead.ai/?ref=paidadstech) — AI & Automation
-- [Smartlead](https://smartlead.ai/?ref=paidadstech) — Business Growth
 
 ## About
 
