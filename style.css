@@ -238,19 +238,16 @@ button { font-family: inherit; }
   margin: 0 auto 40px;
 }
 
-/* Hero background — soft purple ambient glow */
+/* Hero background — subtle top-down light gray fade */
 .hero_decor {
   z-index: 1;
-  filter: blur(120px);
-  background: radial-gradient(ellipse at 50% 40%, rgba(128, 85, 255, 0.12) 0%, rgba(128, 85, 255, 0.04) 50%, transparent 80%);
+  background: linear-gradient(180deg, rgba(235, 235, 240, 0.5) 0%, rgba(240, 240, 245, 0.15) 50%, transparent 100%);
   width: 100%;
-  max-width: 1080px;
-  height: 300px;
+  height: 100%;
   display: block;
   position: absolute;
-  top: 10%;
-  left: 50%;
-  transform: translateX(-50%);
+  top: 0;
+  left: 0;
 }
 
 .hero_pattern {
@@ -341,6 +338,7 @@ button { font-family: inherit; }
   text-decoration: none;
   transition: all var(--transition);
   display: flex;
+  margin-top: auto;
 }
 .favourites_item-cta:hover { opacity: 0.6; }
 .favourites_item-cta-icon { display: flex; align-items: center; }
@@ -606,7 +604,7 @@ button { font-family: inherit; }
   background-position: 50%;
   background-size: cover;
   border-radius: 12px;
-  overflow: hidden;
+  overflow: visible;
   display: flex;
 }
 
@@ -633,10 +631,11 @@ button { font-family: inherit; }
 .banner_image {
   flex: 1;
   display: flex;
-  align-items: flex-end;
+  align-items: center;
   justify-content: flex-end;
+  overflow: visible;
 }
-.banner_image img, .banner_img { max-width: 608px; width: 100%; }
+.banner_image img, .banner_img { max-width: 608px; width: 100%; height: auto; }
 
 /* Utility classes */
 .padding-global-4 { padding: 0 20px; }
