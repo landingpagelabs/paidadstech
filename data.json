@@ -1,82 +1,502 @@
 [
   {
-    "name": "Prospeo",
-    "slug": "prospeo",
-    "url": "https://prospeo.io",
-    "description": "B2B lead research platform. Find verified emails and phone numbers from LinkedIn, company domains, and more.",
-    "category": "AI & Automation",
-    "logo_url": "https://lpl-client-research.b-cdn.net/paidadstech/tool-prospeo-logo.png",
-    "image_url": "https://lpl-client-research.b-cdn.net/paidadstech/tool-prospeo-screenshot.png",
+    "name": "Ads Uploader",
+    "slug": "ads-uploader",
+    "url": "https://adsuploader.com",
+    "description": "Bulk upload ads to Meta, Google, and TikTok. Save hours on campaign setup.",
+    "category": "Ad Management",
+    "logo_url": "https://logo.clearbit.com/adsuploader.com",
+    "image_url": "",
     "order": 1
   },
   {
-    "name": "FullEnrich",
-    "slug": "fullenrich",
-    "url": "https://fullenrich.com",
-    "description": "Waterfall enrichment platform that aggregates 15+ data providers to maximize email and phone number find rates.",
-    "category": "Business Growth",
-    "logo_url": "https://lpl-client-research.b-cdn.net/paidadstech/tool-fullenrich-logo.png",
-    "image_url": "https://lpl-client-research.b-cdn.net/paidadstech/tool-fullenrich-screenshot.png",
-    "order": 2
+    "name": "Cal.com",
+    "slug": "cal-com",
+    "url": "https://cal.com",
+    "description": "Open-source scheduling infrastructure. The Calendly alternative you can self-host.",
+    "category": "CRM, Sales & Scheduling",
+    "logo_url": "https://logo.clearbit.com/cal.com",
+    "image_url": "",
+    "order": 1
   },
   {
-    "name": "Better Contact",
-    "slug": "better-contact",
-    "url": "https://bettercontact.rocks",
-    "description": "Smart contact enrichment that combines multiple data sources to find the most accurate B2B contact information.",
+    "name": "CheckoutChamp",
+    "slug": "checkoutchamp",
+    "url": "https://checkoutchamp.com",
+    "description": "High-converting checkout pages. One-click upsells, order bumps, and A/B testing.",
+    "category": "Checkout & Payments",
+    "logo_url": "https://logo.clearbit.com/checkoutchamp.com",
+    "image_url": "",
+    "order": 1
+  },
+  {
+    "name": "Clay",
+    "slug": "clay",
+    "url": "https://clay.com",
+    "description": "Data enrichment and AI research agents. Build automated outbound workflows.",
     "category": "AI & Automation",
-    "logo_url": "https://lpl-client-research.b-cdn.net/paidadstech/tool-better-contact-logo.png",
-    "image_url": "https://lpl-client-research.b-cdn.net/paidadstech/tool-better-contact-screenshot.png",
-    "order": 3
+    "logo_url": "https://logo.clearbit.com/clay.com",
+    "image_url": "",
+    "order": 1
+  },
+  {
+    "name": "ClickFunnels",
+    "slug": "clickfunnels",
+    "url": "https://clickfunnels.com",
+    "description": "All-in-one sales funnel builder. Build landing pages, order forms, and membership sites.",
+    "category": "Landing Pages & Funnels",
+    "logo_url": "https://logo.clearbit.com/clickfunnels.com",
+    "image_url": "",
+    "order": 1
+  },
+  {
+    "name": "Fillout",
+    "slug": "fillout",
+    "url": "https://fillout.com",
+    "description": "Modern form builder with logic, calculations, and native integrations. Beautiful by default.",
+    "category": "Forms & Data Capture",
+    "logo_url": "https://logo.clearbit.com/fillout.com",
+    "image_url": "",
+    "order": 1
+  },
+  {
+    "name": "Foreplay",
+    "slug": "foreplay",
+    "url": "https://foreplay.co",
+    "description": "Save, organize, and brief winning ad creatives. The ultimate swipe file for performance marketers.",
+    "category": "Ad Creative & Swipe Files",
+    "logo_url": "https://logo.clearbit.com/foreplay.co",
+    "image_url": "",
+    "order": 1
+  },
+  {
+    "name": "Hyros",
+    "slug": "hyros",
+    "url": "https://hyros.com",
+    "description": "AI-powered ad attribution tracking. See exactly which ads drive revenue across channels.",
+    "category": "Analytics & Attribution",
+    "logo_url": "https://logo.clearbit.com/hyros.com",
+    "image_url": "",
+    "order": 1
   },
   {
     "name": "Premium Inboxes",
     "slug": "premium-inboxes",
     "url": "https://premiuminboxes.com",
-    "description": "The safest infrastructure to scale your cold email. Premium domains and inboxes purpose-built for deliverability.",
+    "description": "Done-for-you email infrastructure. Pre-warmed inboxes ready for cold outreach.",
     "category": "Email Deliverability",
     "logo_url": "https://lpl-client-research.b-cdn.net/paidadstech/tool-premium-inboxes-logo.png",
     "image_url": "https://lpl-client-research.b-cdn.net/paidadstech/tool-premium-inboxes-screenshot.png",
-    "order": 4
+    "order": 1
+  },
+  {
+    "name": "Prospeo",
+    "slug": "prospeo",
+    "url": "https://prospeo.io",
+    "description": "B2B lead research platform. Find verified emails and phone numbers from LinkedIn, company domains, and more.",
+    "category": "Outreach & Prospecting",
+    "logo_url": "https://lpl-client-research.b-cdn.net/paidadstech/tool-prospeo-logo.png",
+    "image_url": "https://lpl-client-research.b-cdn.net/paidadstech/tool-prospeo-screenshot.png",
+    "order": 1
+  },
+  {
+    "name": "Senja",
+    "slug": "senja",
+    "url": "https://senja.io",
+    "description": "Collect and display testimonials. Beautiful widgets for your landing pages and ads.",
+    "category": "Social Proof",
+    "logo_url": "https://logo.clearbit.com/senja.io",
+    "image_url": "",
+    "order": 1
+  },
+  {
+    "name": "Vidalytics",
+    "slug": "vidalytics",
+    "url": "https://vidalytics.com",
+    "description": "Video hosting built for marketers. Conversion-focused video player with analytics.",
+    "category": "Video Hosting & Sales",
+    "logo_url": "https://logo.clearbit.com/vidalytics.com",
+    "image_url": "",
+    "order": 1
+  },
+  {
+    "name": "Calendly",
+    "slug": "calendly",
+    "url": "https://calendly.com",
+    "description": "Scheduling automation that eliminates back-and-forth emails. Book meetings in seconds.",
+    "category": "CRM, Sales & Scheduling",
+    "logo_url": "https://logo.clearbit.com/calendly.com",
+    "image_url": "",
+    "order": 2
+  },
+  {
+    "name": "FullEnrich",
+    "slug": "fullenrich",
+    "url": "https://fullenrich.com",
+    "description": "Waterfall enrichment engine. Aggregate 15+ data providers to maximise email and phone coverage.",
+    "category": "Outreach & Prospecting",
+    "logo_url": "https://lpl-client-research.b-cdn.net/paidadstech/tool-fullenrich-logo.png",
+    "image_url": "https://lpl-client-research.b-cdn.net/paidadstech/tool-fullenrich-screenshot.png",
+    "order": 2
+  },
+  {
+    "name": "GetHookd",
+    "slug": "gethookd",
+    "url": "https://gethookd.io",
+    "description": "Ad hook inspiration library. Find proven hooks and creative angles for your next campaign.",
+    "category": "Ad Creative & Swipe Files",
+    "logo_url": "https://logo.clearbit.com/gethookd.io",
+    "image_url": "",
+    "order": 2
+  },
+  {
+    "name": "Go High Level",
+    "slug": "go-high-level",
+    "url": "https://gohighlevel.com",
+    "description": "White-label CRM, funnel builder, and marketing automation platform for agencies.",
+    "category": "Landing Pages & Funnels",
+    "logo_url": "https://logo.clearbit.com/gohighlevel.com",
+    "image_url": "",
+    "order": 2
+  },
+  {
+    "name": "Madgicx",
+    "slug": "madgicx",
+    "url": "https://madgicx.com",
+    "description": "AI-powered Meta ads optimisation. Autonomous budget allocation, audiences, and creative testing.",
+    "category": "Ad Management",
+    "logo_url": "https://logo.clearbit.com/madgicx.com",
+    "image_url": "",
+    "order": 2
+  },
+  {
+    "name": "Project Blue",
+    "slug": "project-blue",
+    "url": "https://projectblue.ai",
+    "description": "AI-powered social proof and review management for brands and agencies.",
+    "category": "Social Proof",
+    "logo_url": "https://logo.clearbit.com/projectblue.ai",
+    "image_url": "",
+    "order": 2
   },
   {
     "name": "Scaled Mail",
     "slug": "scaled-mail",
     "url": "https://scaledmail.com",
-    "description": "Unlock unlimited cold email with precision-engineered infrastructure. Domains, inboxes, and warmup at scale.",
+    "description": "Email infrastructure at scale. Manage hundreds of sending domains and mailboxes.",
     "category": "Email Deliverability",
     "logo_url": "https://lpl-client-research.b-cdn.net/paidadstech/tool-scaled-mail-logo.png",
     "image_url": "https://lpl-client-research.b-cdn.net/paidadstech/tool-scaled-mail-screenshot.png",
-    "order": 5
+    "order": 2
+  },
+  {
+    "name": "Triple Whale",
+    "slug": "triple-whale",
+    "url": "https://triplewhale.com",
+    "description": "Ecommerce analytics and attribution. Track ROAS, LTV, and ad performance in one dashboard.",
+    "category": "Analytics & Attribution",
+    "logo_url": "https://logo.clearbit.com/triplewhale.com",
+    "image_url": "",
+    "order": 2
+  },
+  {
+    "name": "Typeform",
+    "slug": "typeform",
+    "url": "https://typeform.com",
+    "description": "Conversational forms that feel like a chat. Higher completion rates through better UX.",
+    "category": "Forms & Data Capture",
+    "logo_url": "https://logo.clearbit.com/typeform.com",
+    "image_url": "",
+    "order": 2
+  },
+  {
+    "name": "Wistia",
+    "slug": "wistia",
+    "url": "https://wistia.com",
+    "description": "Professional video hosting with marketing tools. Lead capture, CTAs, and analytics built in.",
+    "category": "Video Hosting & Sales",
+    "logo_url": "https://logo.clearbit.com/wistia.com",
+    "image_url": "",
+    "order": 2
+  },
+  {
+    "name": "Zapier",
+    "slug": "zapier",
+    "url": "https://zapier.com",
+    "description": "Connect your apps and automate workflows. 6,000+ integrations.",
+    "category": "AI & Automation",
+    "logo_url": "https://logo.clearbit.com/zapier.com",
+    "image_url": "",
+    "order": 2
+  },
+  {
+    "name": "AddEvent",
+    "slug": "addevent",
+    "url": "https://addevent.com",
+    "description": "Add-to-calendar buttons and event tools. Make it easy for leads to remember your events.",
+    "category": "CRM, Sales & Scheduling",
+    "logo_url": "https://logo.clearbit.com/addevent.com",
+    "image_url": "",
+    "order": 3
+  },
+  {
+    "name": "Better Contact",
+    "slug": "better-contact",
+    "url": "https://bettercontact.rocks",
+    "description": "Smart contact data enrichment. Cascading lookups across multiple providers for maximum coverage.",
+    "category": "Outreach & Prospecting",
+    "logo_url": "https://lpl-client-research.b-cdn.net/paidadstech/tool-better-contact-logo.png",
+    "image_url": "https://lpl-client-research.b-cdn.net/paidadstech/tool-better-contact-screenshot.png",
+    "order": 3
+  },
+  {
+    "name": "Campaign URL Builder",
+    "slug": "campaign-url-builder",
+    "url": "https://ga-dev-tools.google/campaign-url-builder/",
+    "description": "Google's free tool for adding UTM parameters to your campaign URLs.",
+    "category": "Ad Management",
+    "logo_url": "https://logo.clearbit.com/google.com",
+    "image_url": "",
+    "order": 3
+  },
+  {
+    "name": "Cometly",
+    "slug": "cometly",
+    "url": "https://cometly.com",
+    "description": "Accurate ad attribution for Meta, Google, and TikTok. First-party data tracking.",
+    "category": "Analytics & Attribution",
+    "logo_url": "https://logo.clearbit.com/cometly.com",
+    "image_url": "",
+    "order": 3
+  },
+  {
+    "name": "Funnel of the Week",
+    "slug": "funnel-of-the-week",
+    "url": "https://funneloftheweek.com",
+    "description": "Weekly teardowns of high-converting funnels. Learn what works and why.",
+    "category": "Ad Creative & Swipe Files",
+    "logo_url": "https://logo.clearbit.com/funneloftheweek.com",
+    "image_url": "",
+    "order": 3
+  },
+  {
+    "name": "Jotform",
+    "slug": "jotform",
+    "url": "https://jotform.com",
+    "description": "Powerful form builder with payments, approvals, and 10,000+ templates.",
+    "category": "Forms & Data Capture",
+    "logo_url": "https://logo.clearbit.com/jotform.com",
+    "image_url": "",
+    "order": 3
+  },
+  {
+    "name": "Make",
+    "slug": "make",
+    "url": "https://make.com",
+    "description": "Visual automation platform. Build complex workflows with drag-and-drop.",
+    "category": "AI & Automation",
+    "logo_url": "https://logo.clearbit.com/make.com",
+    "image_url": "",
+    "order": 3
+  },
+  {
+    "name": "Vimeo",
+    "slug": "vimeo",
+    "url": "https://vimeo.com",
+    "description": "Video hosting and management platform. Clean, ad-free player for professional content.",
+    "category": "Video Hosting & Sales",
+    "logo_url": "https://logo.clearbit.com/vimeo.com",
+    "image_url": "",
+    "order": 3
+  },
+  {
+    "name": "Warmup Inbox",
+    "slug": "warmup-inbox",
+    "url": "https://warmupinbox.com",
+    "description": "Email warmup service. Improve sender reputation and inbox placement automatically.",
+    "category": "Email Deliverability",
+    "logo_url": "https://logo.clearbit.com/warmupinbox.com",
+    "image_url": "",
+    "order": 3
+  },
+  {
+    "name": "Webflow",
+    "slug": "webflow",
+    "url": "https://webflow.com",
+    "description": "Visual web design and development platform. Build production-ready sites without code.",
+    "category": "Landing Pages & Funnels",
+    "logo_url": "https://logo.clearbit.com/webflow.com",
+    "image_url": "",
+    "order": 3
+  },
+  {
+    "name": "HubSpot",
+    "slug": "hubspot",
+    "url": "https://hubspot.com",
+    "description": "All-in-one CRM with marketing, sales, and service tools. Free tier available.",
+    "category": "CRM, Sales & Scheduling",
+    "logo_url": "https://logo.clearbit.com/hubspot.com",
+    "image_url": "",
+    "order": 4
   },
   {
     "name": "Kaspr",
     "slug": "kaspr",
     "url": "https://kaspr.io",
-    "description": "Instant access to accurate European contact data. Find emails and phone numbers directly from LinkedIn profiles.",
-    "category": "AI & Automation",
+    "description": "LinkedIn contact data extraction. Get verified emails and phone numbers from LinkedIn profiles.",
+    "category": "Outreach & Prospecting",
     "logo_url": "https://lpl-client-research.b-cdn.net/paidadstech/tool-kaspr-logo.png",
     "image_url": "https://lpl-client-research.b-cdn.net/paidadstech/tool-kaspr-screenshot.png",
-    "order": 6
+    "order": 4
+  },
+  {
+    "name": "RedTrack",
+    "slug": "redtrack",
+    "url": "https://redtrack.io",
+    "description": "Conversion tracking and attribution for media buyers. Real-time performance data.",
+    "category": "Analytics & Attribution",
+    "logo_url": "https://logo.clearbit.com/redtrack.io",
+    "image_url": "",
+    "order": 4
+  },
+  {
+    "name": "Swiped.co",
+    "slug": "swiped-co",
+    "url": "https://swiped.co",
+    "description": "Curated swipe file of proven ads, emails, and landing pages from top brands.",
+    "category": "Ad Creative & Swipe Files",
+    "logo_url": "https://logo.clearbit.com/swiped.co",
+    "image_url": "",
+    "order": 4
+  },
+  {
+    "name": "Tally",
+    "slug": "tally",
+    "url": "https://tally.so",
+    "description": "Free form builder that works like a doc. Simple, fast, and surprisingly powerful.",
+    "category": "Forms & Data Capture",
+    "logo_url": "https://logo.clearbit.com/tally.so",
+    "image_url": "",
+    "order": 4
+  },
+  {
+    "name": "Unbounce",
+    "slug": "unbounce",
+    "url": "https://unbounce.com",
+    "description": "Landing page builder with Smart Traffic AI that automatically routes visitors to the best-converting variant.",
+    "category": "Landing Pages & Funnels",
+    "logo_url": "https://logo.clearbit.com/unbounce.com",
+    "image_url": "",
+    "order": 4
+  },
+  {
+    "name": "VTurb",
+    "slug": "vturb",
+    "url": "https://vturb.com",
+    "description": "Video hosting optimised for sales pages. Fast loading, no branding, conversion-focused.",
+    "category": "Video Hosting & Sales",
+    "logo_url": "https://logo.clearbit.com/vturb.com",
+    "image_url": "",
+    "order": 4
+  },
+  {
+    "name": "n8n",
+    "slug": "n8n",
+    "url": "https://n8n.io",
+    "description": "Open-source workflow automation. Self-hostable alternative to Zapier.",
+    "category": "AI & Automation",
+    "logo_url": "https://logo.clearbit.com/n8n.io",
+    "image_url": "",
+    "order": 4
+  },
+  {
+    "name": "Arc Ads",
+    "slug": "arc-ads",
+    "url": "https://arcads.ai",
+    "description": "AI-generated UGC-style video ads. Create authentic ad creatives at scale.",
+    "category": "Ad Creative & Swipe Files",
+    "logo_url": "https://logo.clearbit.com/arcads.ai",
+    "image_url": "",
+    "order": 5
+  },
+  {
+    "name": "Close",
+    "slug": "close",
+    "url": "https://close.com",
+    "description": "CRM built for sales teams. Built-in calling, email, and pipeline management.",
+    "category": "CRM, Sales & Scheduling",
+    "logo_url": "https://logo.clearbit.com/close.com",
+    "image_url": "",
+    "order": 5
+  },
+  {
+    "name": "Instapage",
+    "slug": "instapage",
+    "url": "https://instapage.com",
+    "description": "Post-click landing page platform built for advertising teams. Personalise pages at scale.",
+    "category": "Landing Pages & Funnels",
+    "logo_url": "https://logo.clearbit.com/instapage.com",
+    "image_url": "",
+    "order": 5
   },
   {
     "name": "Lemlist",
     "slug": "lemlist",
     "url": "https://lemlist.com",
-    "description": "The prospecting tool to automate multichannel outreach and actually get replies. Email, LinkedIn, and calls in one.",
-    "category": "AI & Automation",
+    "description": "Cold outreach platform with personalised images and multi-channel sequences.",
+    "category": "Outreach & Prospecting",
     "logo_url": "https://lpl-client-research.b-cdn.net/paidadstech/tool-lemlist-logo.png",
     "image_url": "https://lpl-client-research.b-cdn.net/paidadstech/tool-lemlist-screenshot.png",
-    "order": 7
+    "order": 5
+  },
+  {
+    "name": "Northbeam",
+    "slug": "northbeam",
+    "url": "https://northbeam.io",
+    "description": "Media mix modelling and multi-touch attribution for DTC brands.",
+    "category": "Analytics & Attribution",
+    "logo_url": "https://logo.clearbit.com/northbeam.io",
+    "image_url": "",
+    "order": 5
+  },
+  {
+    "name": "Funnelish",
+    "slug": "funnelish",
+    "url": "https://funnelish.com",
+    "description": "Shopify-friendly funnel builder. Build high-converting sales funnels for ecommerce.",
+    "category": "Landing Pages & Funnels",
+    "logo_url": "https://logo.clearbit.com/funnelish.com",
+    "image_url": "",
+    "order": 6
   },
   {
     "name": "Smartlead",
     "slug": "smartlead",
     "url": "https://smartlead.ai",
-    "description": "All you need to cold email in one place. Unlimited mailboxes, AI warmup, and a unified inbox to close deals faster.",
-    "category": "AI & Automation",
+    "description": "Scale cold email outreach with unlimited mailboxes, AI warmup, and multi-channel sequences.",
+    "category": "Outreach & Prospecting",
     "logo_url": "https://lpl-client-research.b-cdn.net/paidadstech/tool-smartlead-logo.png",
     "image_url": "https://lpl-client-research.b-cdn.net/paidadstech/tool-smartlead-screenshot.png",
-    "order": 8
+    "order": 6
+  },
+  {
+    "name": "Supermetrics",
+    "slug": "supermetrics",
+    "url": "https://supermetrics.com",
+    "description": "Marketing analytics reporting. Pull ad data from all platforms into one dashboard.",
+    "category": "Analytics & Attribution",
+    "logo_url": "https://logo.clearbit.com/supermetrics.com",
+    "image_url": "",
+    "order": 6
+  },
+  {
+    "name": "iClosed",
+    "slug": "iclosed",
+    "url": "https://iclosed.io",
+    "description": "Sales closing platform. Track and manage your sales pipeline with AI assistance.",
+    "category": "CRM, Sales & Scheduling",
+    "logo_url": "https://logo.clearbit.com/iclosed.io",
+    "image_url": "",
+    "order": 6
   }
 ]

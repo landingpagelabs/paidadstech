@@ -6,23 +6,71 @@ Website: https://www.paidadstech.com
 
 ## Categories
 
-- [Sales Tools](https://www.paidadstech.com/category/sales-tools/) (0 tools)
-- [Outreach Copywriting](https://www.paidadstech.com/category/outreach-copywriting/) (0 tools)
-- [GTM Engineering](https://www.paidadstech.com/category/gtm-engineering/) (0 tools)
-- [Email Deliverability](https://www.paidadstech.com/category/email-deliverability/) (2 tools)
-- [Business Growth](https://www.paidadstech.com/category/business-growth/) (1 tools)
-- [AI & Automation](https://www.paidadstech.com/category/ai-automation/) (5 tools)
+- [Ad Creative & Swipe Files](https://www.paidadstech.com/category/ad-creative/) (5 tools)
+- [Landing Pages & Funnels](https://www.paidadstech.com/category/landing-pages-funnels/) (6 tools)
+- [Ad Management](https://www.paidadstech.com/category/ad-management/) (3 tools)
+- [Analytics & Attribution](https://www.paidadstech.com/category/analytics-attribution/) (6 tools)
+- [Video Hosting & Sales](https://www.paidadstech.com/category/video-hosting/) (4 tools)
+- [Forms & Data Capture](https://www.paidadstech.com/category/forms-data-capture/) (4 tools)
+- [CRM, Sales & Scheduling](https://www.paidadstech.com/category/crm-sales-scheduling/) (6 tools)
+- [Email Deliverability](https://www.paidadstech.com/category/email-deliverability/) (3 tools)
+- [Outreach & Prospecting](https://www.paidadstech.com/category/outreach-prospecting/) (6 tools)
+- [Checkout & Payments](https://www.paidadstech.com/category/checkout-payments/) (1 tools)
+- [Social Proof](https://www.paidadstech.com/category/social-proof/) (2 tools)
+- [AI & Automation](https://www.paidadstech.com/category/ai-automation/) (4 tools)
 
 ## Tools
 
-- [Prospeo](https://www.paidadstech.com/tool/prospeo/) — AI & Automation
-- [FullEnrich](https://www.paidadstech.com/tool/fullenrich/) — Business Growth
-- [Better Contact](https://www.paidadstech.com/tool/better-contact/) — AI & Automation
+- [Ads Uploader](https://www.paidadstech.com/tool/ads-uploader/) — Ad Management
+- [Cal.com](https://www.paidadstech.com/tool/cal-com/) — CRM, Sales & Scheduling
+- [CheckoutChamp](https://www.paidadstech.com/tool/checkoutchamp/) — Checkout & Payments
+- [Clay](https://www.paidadstech.com/tool/clay/) — AI & Automation
+- [ClickFunnels](https://www.paidadstech.com/tool/clickfunnels/) — Landing Pages & Funnels
+- [Fillout](https://www.paidadstech.com/tool/fillout/) — Forms & Data Capture
+- [Foreplay](https://www.paidadstech.com/tool/foreplay/) — Ad Creative & Swipe Files
+- [Hyros](https://www.paidadstech.com/tool/hyros/) — Analytics & Attribution
 - [Premium Inboxes](https://www.paidadstech.com/tool/premium-inboxes/) — Email Deliverability
+- [Prospeo](https://www.paidadstech.com/tool/prospeo/) — Outreach & Prospecting
+- [Senja](https://www.paidadstech.com/tool/senja/) — Social Proof
+- [Vidalytics](https://www.paidadstech.com/tool/vidalytics/) — Video Hosting & Sales
+- [Calendly](https://www.paidadstech.com/tool/calendly/) — CRM, Sales & Scheduling
+- [FullEnrich](https://www.paidadstech.com/tool/fullenrich/) — Outreach & Prospecting
+- [GetHookd](https://www.paidadstech.com/tool/gethookd/) — Ad Creative & Swipe Files
+- [Go High Level](https://www.paidadstech.com/tool/go-high-level/) — Landing Pages & Funnels
+- [Madgicx](https://www.paidadstech.com/tool/madgicx/) — Ad Management
+- [Project Blue](https://www.paidadstech.com/tool/project-blue/) — Social Proof
 - [Scaled Mail](https://www.paidadstech.com/tool/scaled-mail/) — Email Deliverability
-- [Kaspr](https://www.paidadstech.com/tool/kaspr/) — AI & Automation
-- [Lemlist](https://www.paidadstech.com/tool/lemlist/) — AI & Automation
-- [Smartlead](https://www.paidadstech.com/tool/smartlead/) — AI & Automation
+- [Triple Whale](https://www.paidadstech.com/tool/triple-whale/) — Analytics & Attribution
+- [Typeform](https://www.paidadstech.com/tool/typeform/) — Forms & Data Capture
+- [Wistia](https://www.paidadstech.com/tool/wistia/) — Video Hosting & Sales
+- [Zapier](https://www.paidadstech.com/tool/zapier/) — AI & Automation
+- [AddEvent](https://www.paidadstech.com/tool/addevent/) — CRM, Sales & Scheduling
+- [Better Contact](https://www.paidadstech.com/tool/better-contact/) — Outreach & Prospecting
+- [Campaign URL Builder](https://www.paidadstech.com/tool/campaign-url-builder/) — Ad Management
+- [Cometly](https://www.paidadstech.com/tool/cometly/) — Analytics & Attribution
+- [Funnel of the Week](https://www.paidadstech.com/tool/funnel-of-the-week/) — Ad Creative & Swipe Files
+- [Jotform](https://www.paidadstech.com/tool/jotform/) — Forms & Data Capture
+- [Make](https://www.paidadstech.com/tool/make/) — AI & Automation
+- [Vimeo](https://www.paidadstech.com/tool/vimeo/) — Video Hosting & Sales
+- [Warmup Inbox](https://www.paidadstech.com/tool/warmup-inbox/) — Email Deliverability
+- [Webflow](https://www.paidadstech.com/tool/webflow/) — Landing Pages & Funnels
+- [HubSpot](https://www.paidadstech.com/tool/hubspot/) — CRM, Sales & Scheduling
+- [Kaspr](https://www.paidadstech.com/tool/kaspr/) — Outreach & Prospecting
+- [RedTrack](https://www.paidadstech.com/tool/redtrack/) — Analytics & Attribution
+- [Swiped.co](https://www.paidadstech.com/tool/swiped-co/) — Ad Creative & Swipe Files
+- [Tally](https://www.paidadstech.com/tool/tally/) — Forms & Data Capture
+- [Unbounce](https://www.paidadstech.com/tool/unbounce/) — Landing Pages & Funnels
+- [VTurb](https://www.paidadstech.com/tool/vturb/) — Video Hosting & Sales
+- [n8n](https://www.paidadstech.com/tool/n8n/) — AI & Automation
+- [Arc Ads](https://www.paidadstech.com/tool/arc-ads/) — Ad Creative & Swipe Files
+- [Close](https://www.paidadstech.com/tool/close/) — CRM, Sales & Scheduling
+- [Instapage](https://www.paidadstech.com/tool/instapage/) — Landing Pages & Funnels
+- [Lemlist](https://www.paidadstech.com/tool/lemlist/) — Outreach & Prospecting
+- [Northbeam](https://www.paidadstech.com/tool/northbeam/) — Analytics & Attribution
+- [Funnelish](https://www.paidadstech.com/tool/funnelish/) — Landing Pages & Funnels
+- [Smartlead](https://www.paidadstech.com/tool/smartlead/) — Outreach & Prospecting
+- [Supermetrics](https://www.paidadstech.com/tool/supermetrics/) — Analytics & Attribution
+- [iClosed](https://www.paidadstech.com/tool/iclosed/) — CRM, Sales & Scheduling
 
 ## About
 
