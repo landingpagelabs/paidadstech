@@ -86,82 +86,77 @@
   <main class="main">
 
     <!-- Breadcrumb -->
-    <section class="section_hero" style="padding-bottom:0;">
-      <div class="padding-global">
-        <div class="container-large">
-          <nav class="breadcrumb" style="text-align:left;padding-top:16px;">
-            <a href="/">Home</a>
-            <span class="breadcrumb__sep">/</span>
-            <a href="/category/business-growth/">Business Growth</a>
-            <span class="breadcrumb__sep">/</span>
-            <span>FullEnrich</span>
-          </nav>
-        </div>
+    <div class="padding-global">
+      <div class="container-large">
+        <nav class="breadcrumb" style="text-align:left;padding:16px 0 0;">
+          <a href="/">Home</a>
+          <span class="breadcrumb__sep">/</span>
+          <a href="/category/business-growth/">Business Growth</a>
+          <span class="breadcrumb__sep">/</span>
+          <span>FullEnrich</span>
+        </nav>
       </div>
-    </section>
+    </div>
 
     <!-- Tool Detail -->
-    <section class="section_content" style="padding-top:24px;">
+    <section class="tool-page">
       <div class="padding-global">
         <div class="container-large">
-          <div class="tool-detail">
-            <div class="tool-detail__inner">
 
-              <!-- Header: logo + name + category + visit button -->
-              <div class="tool-detail__header">
-                <img class="tool-detail__logo" src="https://lpl-client-research.b-cdn.net/paidadstech/tool-fullenrich-logo.png" alt="FullEnrich logo" onerror="this.style.display='none'">
-                <div>
-                  <h1 class="tool-detail__name">FullEnrich</h1>
-                  <div class="tool-detail__meta">
-                    <a href="/category/business-growth/" class="tool-detail__tag">Business Growth</a>
-                  </div>
-                </div>
-              </div>
+          <!-- Two-column layout -->
+          <div class="tool-page__grid">
 
-              <!-- Screenshot -->
-              <img src="https://lpl-client-research.b-cdn.net/paidadstech/tool-fullenrich-screenshot.png" loading="lazy" alt="FullEnrich screenshot" class="tool-detail__screenshot"/>
-
-              <!-- Body -->
-              <div class="tool-detail__body">
-
-                <!-- About -->
-                <div class="tool-detail__section">
-                  <h2>About FullEnrich</h2>
-                  <p class="tool-detail__description">Waterfall enrichment platform that aggregates 15+ data providers to maximize email and phone number find rates.</p>
-                </div>
-
-                <!-- Details -->
-                <div class="tool-detail__section">
-                  <h2>Details</h2>
-                  <dl class="tool-detail__details">
-                    <div class="tool-detail__detail-row">
-                      <dt>Website</dt>
-                      <dd><a href="https://fullenrich.com/?ref=paidadstech" target="_blank" rel="noopener">fullenrich.com</a></dd>
-                    </div>
-                    <div class="tool-detail__detail-row">
-                      <dt>Category</dt>
-                      <dd><a href="/category/business-growth/">Business Growth</a></dd>
-                    </div>
-                  </dl>
-                </div>
-
-                <!-- CTA -->
-                <div class="tool-detail__cta">
-                  <a href="https://fullenrich.com/?ref=paidadstech" class="btn btn--primary" target="_blank" rel="noopener">Visit FullEnrich <svg width="14" height="14" viewBox="0 0 14 14" fill="none" xmlns="http://www.w3.org/2000/svg" style="vertical-align:middle;margin-left:4px;"><path d="M3.5 10.5L10.5 3.5M10.5 3.5H4.5M10.5 3.5V9.5" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg></a>
-                  <a href="/" class="btn btn--secondary">Browse all tools</a>
-                </div>
-
-                <!-- Related tools -->
-                <div class="tool-detail__related">
-                  <h2>Related Business Growth tools</h2>
-                  <div class="content_list">
-                    
-                  </div>
-                </div>
-
+            <!-- Left: screenshot -->
+            <div class="tool-page__image-col">
+              <div class="tool-page__image-wrap">
+                <img src="https://lpl-client-research.b-cdn.net/paidadstech/tool-fullenrich-screenshot.png" loading="lazy" alt="FullEnrich screenshot" class="tool-page__image"/>
               </div>
             </div>
+
+            <!-- Right: info -->
+            <div class="tool-page__info-col">
+
+              <!-- Header -->
+              <div class="tool-page__header">
+                <img class="tool-page__logo" src="https://lpl-client-research.b-cdn.net/paidadstech/tool-fullenrich-logo.png" alt="FullEnrich logo" onerror="this.style.display='none'">
+                <div>
+                  <h1 class="tool-page__name">FullEnrich</h1>
+                  <a href="/category/business-growth/" class="tool-page__tag">Business Growth</a>
+                </div>
+              </div>
+
+              <!-- Description -->
+              <p class="tool-page__desc">Waterfall enrichment platform that aggregates 15+ data providers to maximize email and phone number find rates.</p>
+
+              <!-- Details -->
+              <div class="tool-page__details">
+                <div class="tool-page__detail">
+                  <span class="tool-page__detail-label">Website</span>
+                  <a href="https://fullenrich.com/?ref=paidadstech" target="_blank" rel="noopener" class="tool-page__detail-value">fullenrich.com <svg width="10" height="10" viewBox="0 0 14 14" fill="none" xmlns="http://www.w3.org/2000/svg" style="vertical-align:middle;opacity:0.4;"><path d="M3.5 10.5L10.5 3.5M10.5 3.5H4.5M10.5 3.5V9.5" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg></a>
+                </div>
+                <div class="tool-page__detail">
+                  <span class="tool-page__detail-label">Category</span>
+                  <a href="/category/business-growth/" class="tool-page__detail-value">Business Growth</a>
+                </div>
+              </div>
+
+              <!-- CTA buttons -->
+              <div class="tool-page__cta">
+                <a href="https://fullenrich.com/?ref=paidadstech" class="btn btn--primary" target="_blank" rel="noopener">Visit FullEnrich <svg width="12" height="12" viewBox="0 0 14 14" fill="none" xmlns="http://www.w3.org/2000/svg" style="vertical-align:middle;margin-left:4px;"><path d="M3.5 10.5L10.5 3.5M10.5 3.5H4.5M10.5 3.5V9.5" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg></a>
+                <a href="/" class="btn btn--secondary">Browse all tools</a>
+              </div>
+
+            </div>
           </div>
+
+          <!-- Related tools -->
+          <div class="tool-page__related">
+            <h2 class="tool-page__related-title">More Business Growth tools</h2>
+            <div class="content_list">
+              
+            </div>
+          </div>
+
         </div>
       </div>
     </section>

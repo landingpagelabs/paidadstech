@@ -644,94 +644,139 @@ button { font-family: inherit; }
 .back-to-top.visible { display: flex; }
 
 
-/* --- Tool detail page --- */
-.tool-detail { padding: 32px 0 0; }
-.tool-detail__inner { max-width: 780px; }
+/* --- Tool detail page (two-column layout) --- */
+.tool-page { padding: 24px 0 48px; }
 
-.tool-detail__header {
-  display: flex;
-  align-items: center;
-  gap: 16px;
-  margin-bottom: 28px;
+.tool-page__grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 40px;
+  align-items: start;
+  margin-bottom: 48px;
 }
 
-.tool-detail__logo {
-  width: 64px;
-  height: 64px;
+.tool-page__image-wrap {
+  background: var(--gray-100);
+  border: 1px solid var(--gray-300);
   border-radius: 12px;
+  overflow: hidden;
+  position: sticky;
+  top: 80px;
+}
+
+.tool-page__image {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+.tool-page__info-col {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+}
+
+.tool-page__header {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+}
+
+.tool-page__logo {
+  width: 48px;
+  height: 48px;
+  border-radius: 10px;
   object-fit: contain;
   background: var(--gray-100);
   flex-shrink: 0;
 }
 
-.tool-detail__name {
-  font-size: 28px;
+.tool-page__name {
+  font-family: 'TWK Lausanne', Arial, sans-serif;
+  font-size: 24px;
   font-weight: 600;
   letter-spacing: -0.02em;
-  margin-bottom: 4px;
+  margin: 0 0 4px;
 }
 
-.tool-detail__meta {
-  display: flex;
-  flex-wrap: wrap;
-  align-items: center;
-  gap: 8px;
-}
-
-.tool-detail__tag {
+.tool-page__tag {
   display: inline-block;
   font-size: 12px;
   font-weight: 400;
-  padding: 4px 10px;
+  padding: 3px 10px;
   border-radius: 100px;
   background: var(--gray-100);
   color: var(--gray-700);
+  text-decoration: none;
+  transition: background var(--transition);
 }
+.tool-page__tag:hover { background: var(--gray-300); }
 
-.tool-detail__screenshot {
-  width: 100%;
-  border-radius: 12px;
-  border: 1px solid var(--gray-300);
-  margin-bottom: 28px;
-}
-
-.tool-detail__body {
-  display: flex;
-  flex-direction: column;
-  gap: 28px;
-}
-
-.tool-detail__section h2 {
-  font-size: 16px;
-  font-weight: 600;
-  margin-bottom: 10px;
-}
-
-.tool-detail__description {
+.tool-page__desc {
   font-size: 15px;
+  font-weight: 300;
   color: var(--gray-700);
   line-height: 1.7;
+  margin: 0;
 }
 
-.tool-detail__details { display: flex; flex-direction: column; }
-
-.tool-detail__detail-row {
+.tool-page__details {
   display: flex;
-  padding: 10px 0;
-  border-bottom: 1px solid var(--gray-300);
-  font-size: 13px;
+  flex-direction: column;
+  border-top: 1px solid var(--gray-300);
 }
-.tool-detail__detail-row dt { width: 120px; flex-shrink: 0; font-weight: 600; color: var(--gray-600); }
-.tool-detail__detail-row dd a { color: var(--black); transition: color var(--transition); }
-.tool-detail__detail-row dd a:hover { color: var(--purple-cta); }
 
-.tool-detail__related { margin-top: 40px; }
-.tool-detail__related h2 { font-size: 16px; font-weight: 600; margin-bottom: 16px; }
+.tool-page__detail {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 12px 0;
+  border-bottom: 1px solid var(--gray-300);
+  font-size: 14px;
+}
 
-.tool-detail__cta {
+.tool-page__detail-label {
+  font-weight: 500;
+  color: var(--gray-600);
+}
+
+.tool-page__detail-value {
+  color: var(--black);
+  text-decoration: none;
+  transition: color var(--transition);
+}
+.tool-page__detail-value:hover { color: var(--purple-cta); }
+
+.tool-page__cta {
   display: flex;
   gap: 10px;
-  margin-top: 32px;
+}
+
+.tool-page__related {
+  border-top: 1px solid var(--gray-300);
+  padding-top: 32px;
+}
+
+.tool-page__related-title {
+  font-family: 'TWK Lausanne', Arial, sans-serif;
+  font-size: 18px;
+  font-weight: 600;
+  margin: 0 0 20px;
+}
+
+/* Related tools on tool page: max 4 cols */
+.tool-page__related .content_list {
+  grid-template-columns: repeat(4, 1fr);
+}
+
+@media (max-width: 991px) {
+  .tool-page__related .content_list { grid-template-columns: repeat(2, 1fr); }
+}
+
+@media (max-width: 767px) {
+  .tool-page__grid { grid-template-columns: 1fr; gap: 24px; }
+  .tool-page__image-wrap { position: static; }
+  .tool-page__related .content_list { grid-template-columns: 1fr; }
 }
 
 .btn { display: inline-flex; align-items: center; justify-content: center; padding: 10px 20px; font-size: 14px; font-weight: 600; border-radius: 10px; border: none; cursor: pointer; text-decoration: none; transition: all var(--transition); font-family: 'TWK Lausanne', Arial, sans-serif; }
