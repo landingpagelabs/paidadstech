@@ -304,6 +304,10 @@ a:focus-visible, button:focus-visible, input:focus-visible, textarea:focus-visib
   transform: translateY(-50%);
 }
 
+.favourites_slider .swiper-wrapper {
+  align-items: stretch;
+}
+
 .favourites_slider-item.swiper-slide {
   gap: 12px;
   border: 1px solid var(--gray-200);
@@ -312,7 +316,7 @@ a:focus-visible, button:focus-visible, input:focus-visible, textarea:focus-visib
   flex-direction: column;
   padding: 12px;
   display: flex;
-  min-height: 180px;
+  height: auto;
 }
 
 .favourites_item-logo {

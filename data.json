@@ -6,7 +6,7 @@
     "description": "Bulk upload ads to Meta, Google, and TikTok. Save hours on campaign setup.",
     "category": "Ad Management",
     "logo_url": "https://logo.clearbit.com/adsuploader.com",
-    "image_url": "",
+    "image_url": "https://lpl-client-research.b-cdn.net/paidadstech/tool-ads-uploader-screenshot.jpg",
     "order": 1
   },
   {
@@ -16,7 +16,7 @@
     "description": "Open-source scheduling infrastructure. The Calendly alternative you can self-host.",
     "category": "CRM, Sales & Scheduling",
     "logo_url": "https://logo.clearbit.com/cal.com",
-    "image_url": "",
+    "image_url": "https://lpl-client-research.b-cdn.net/paidadstech/tool-cal-com-screenshot.png",
     "order": 1
   },
   {
@@ -56,7 +56,7 @@
     "description": "Modern form builder with logic, calculations, and native integrations. Beautiful by default.",
     "category": "Forms & Data Capture",
     "logo_url": "https://logo.clearbit.com/fillout.com",
-    "image_url": "",
+    "image_url": "https://lpl-client-research.b-cdn.net/paidadstech/tool-fillout-screenshot.png",
     "order": 1
   },
   {
@@ -66,7 +66,7 @@
     "description": "Save, organize, and brief winning ad creatives. The ultimate swipe file for performance marketers.",
     "category": "Ad Creative & Swipe Files",
     "logo_url": "https://logo.clearbit.com/foreplay.co",
-    "image_url": "",
+    "image_url": "https://lpl-client-research.b-cdn.net/paidadstech/tool-foreplay-screenshot.png",
     "order": 1
   },
   {
@@ -76,7 +76,7 @@
     "description": "AI-powered ad attribution tracking. See exactly which ads drive revenue across channels.",
     "category": "Analytics & Attribution",
     "logo_url": "https://logo.clearbit.com/hyros.com",
-    "image_url": "",
+    "image_url": "https://lpl-client-research.b-cdn.net/paidadstech/tool-hyros-screenshot.png",
     "order": 1
   },
   {
@@ -116,7 +116,7 @@
     "description": "Video hosting built for marketers. Conversion-focused video player with analytics.",
     "category": "Video Hosting & Sales",
     "logo_url": "https://logo.clearbit.com/vidalytics.com",
-    "image_url": "",
+    "image_url": "https://lpl-client-research.b-cdn.net/paidadstech/tool-vidalytics-screenshot.webp",
     "order": 1
   },
   {
@@ -126,7 +126,7 @@
     "description": "Scheduling automation that eliminates back-and-forth emails. Book meetings in seconds.",
     "category": "CRM, Sales & Scheduling",
     "logo_url": "https://logo.clearbit.com/calendly.com",
-    "image_url": "",
+    "image_url": "https://lpl-client-research.b-cdn.net/paidadstech/tool-calendly-screenshot.png",
     "order": 2
   },
   {
@@ -146,7 +146,7 @@
     "description": "Ad hook inspiration library. Find proven hooks and creative angles for your next campaign.",
     "category": "Ad Creative & Swipe Files",
     "logo_url": "https://logo.clearbit.com/gethookd.io",
-    "image_url": "",
+    "image_url": "https://lpl-client-research.b-cdn.net/paidadstech/tool-gethookd-screenshot.png",
     "order": 2
   },
   {
@@ -156,7 +156,7 @@
     "description": "White-label CRM, funnel builder, and marketing automation platform for agencies.",
     "category": "Landing Pages & Funnels",
     "logo_url": "https://logo.clearbit.com/gohighlevel.com",
-    "image_url": "",
+    "image_url": "https://lpl-client-research.b-cdn.net/paidadstech/tool-go-high-level-screenshot.png",
     "order": 2
   },
   {
@@ -166,7 +166,7 @@
     "description": "AI-powered Meta ads optimisation. Autonomous budget allocation, audiences, and creative testing.",
     "category": "Ad Management",
     "logo_url": "https://logo.clearbit.com/madgicx.com",
-    "image_url": "",
+    "image_url": "https://lpl-client-research.b-cdn.net/paidadstech/tool-madgicx-screenshot.jpg",
     "order": 2
   },
   {
@@ -206,7 +206,7 @@
     "description": "Conversational forms that feel like a chat. Higher completion rates through better UX.",
     "category": "Forms & Data Capture",
     "logo_url": "https://logo.clearbit.com/typeform.com",
-    "image_url": "",
+    "image_url": "https://lpl-client-research.b-cdn.net/paidadstech/tool-typeform-screenshot.png",
     "order": 2
   },
   {
@@ -216,7 +216,7 @@
     "description": "Professional video hosting with marketing tools. Lead capture, CTAs, and analytics built in.",
     "category": "Video Hosting & Sales",
     "logo_url": "https://logo.clearbit.com/wistia.com",
-    "image_url": "",
+    "image_url": "https://lpl-client-research.b-cdn.net/paidadstech/tool-wistia-screenshot.jpg",
     "order": 2
   },
   {
@@ -236,7 +236,7 @@
     "description": "Add-to-calendar buttons and event tools. Make it easy for leads to remember your events.",
     "category": "CRM, Sales & Scheduling",
     "logo_url": "https://logo.clearbit.com/addevent.com",
-    "image_url": "",
+    "image_url": "https://lpl-client-research.b-cdn.net/paidadstech/tool-addevent-screenshot.png",
     "order": 3
   },
   {
@@ -266,7 +266,7 @@
     "description": "Accurate ad attribution for Meta, Google, and TikTok. First-party data tracking.",
     "category": "Analytics & Attribution",
     "logo_url": "https://logo.clearbit.com/cometly.com",
-    "image_url": "",
+    "image_url": "https://lpl-client-research.b-cdn.net/paidadstech/tool-cometly-screenshot.png",
     "order": 3
   },
   {
@@ -286,7 +286,7 @@
     "description": "Powerful form builder with payments, approvals, and 10,000+ templates.",
     "category": "Forms & Data Capture",
     "logo_url": "https://logo.clearbit.com/jotform.com",
-    "image_url": "",
+    "image_url": "https://lpl-client-research.b-cdn.net/paidadstech/tool-jotform-screenshot.png",
     "order": 3
   },
   {
@@ -306,7 +306,7 @@
     "description": "Video hosting and management platform. Clean, ad-free player for professional content.",
     "category": "Video Hosting & Sales",
     "logo_url": "https://logo.clearbit.com/vimeo.com",
-    "image_url": "",
+    "image_url": "https://lpl-client-research.b-cdn.net/paidadstech/tool-vimeo-screenshot.png",
     "order": 3
   },
   {
@@ -316,7 +316,7 @@
     "description": "Email warmup service. Improve sender reputation and inbox placement automatically.",
     "category": "Email Deliverability",
     "logo_url": "https://logo.clearbit.com/warmupinbox.com",
-    "image_url": "",
+    "image_url": "https://lpl-client-research.b-cdn.net/paidadstech/tool-warmup-inbox-screenshot.png",
     "order": 3
   },
   {
@@ -326,7 +326,7 @@
     "description": "Visual web design and development platform. Build production-ready sites without code.",
     "category": "Landing Pages & Funnels",
     "logo_url": "https://logo.clearbit.com/webflow.com",
-    "image_url": "",
+    "image_url": "https://lpl-client-research.b-cdn.net/paidadstech/tool-webflow-screenshot.jpg",
     "order": 3
   },
   {
@@ -336,7 +336,7 @@
     "description": "All-in-one CRM with marketing, sales, and service tools. Free tier available.",
     "category": "CRM, Sales & Scheduling",
     "logo_url": "https://logo.clearbit.com/hubspot.com",
-    "image_url": "",
+    "image_url": "https://lpl-client-research.b-cdn.net/paidadstech/tool-hubspot-screenshot.jpg",
     "order": 4
   },
   {
@@ -376,7 +376,7 @@
     "description": "Free form builder that works like a doc. Simple, fast, and surprisingly powerful.",
     "category": "Forms & Data Capture",
     "logo_url": "https://logo.clearbit.com/tally.so",
-    "image_url": "",
+    "image_url": "https://lpl-client-research.b-cdn.net/paidadstech/tool-tally-screenshot.jpg",
     "order": 4
   },
   {
@@ -386,7 +386,7 @@
     "description": "Landing page builder with Smart Traffic AI that automatically routes visitors to the best-converting variant.",
     "category": "Landing Pages & Funnels",
     "logo_url": "https://logo.clearbit.com/unbounce.com",
-    "image_url": "",
+    "image_url": "https://lpl-client-research.b-cdn.net/paidadstech/tool-unbounce-screenshot.jpg",
     "order": 4
   },
   {
@@ -396,7 +396,7 @@
     "description": "Video hosting optimised for sales pages. Fast loading, no branding, conversion-focused.",
     "category": "Video Hosting & Sales",
     "logo_url": "https://logo.clearbit.com/vturb.com",
-    "image_url": "",
+    "image_url": "https://lpl-client-research.b-cdn.net/paidadstech/tool-vturb-screenshot.jpg",
     "order": 4
   },
   {
@@ -416,7 +416,7 @@
     "description": "AI-generated UGC-style video ads. Create authentic ad creatives at scale.",
     "category": "Ad Creative & Swipe Files",
     "logo_url": "https://logo.clearbit.com/arcads.ai",
-    "image_url": "",
+    "image_url": "https://lpl-client-research.b-cdn.net/paidadstech/tool-arc-ads-screenshot.png",
     "order": 5
   },
   {
@@ -456,7 +456,7 @@
     "description": "Media mix modelling and multi-touch attribution for DTC brands.",
     "category": "Analytics & Attribution",
     "logo_url": "https://logo.clearbit.com/northbeam.io",
-    "image_url": "",
+    "image_url": "https://lpl-client-research.b-cdn.net/paidadstech/tool-northbeam-screenshot.png",
     "order": 5
   },
   {
@@ -486,7 +486,7 @@
     "description": "Marketing analytics reporting. Pull ad data from all platforms into one dashboard.",
     "category": "Analytics & Attribution",
     "logo_url": "https://logo.clearbit.com/supermetrics.com",
-    "image_url": "",
+    "image_url": "https://lpl-client-research.b-cdn.net/paidadstech/tool-supermetrics-screenshot.png",
     "order": 6
   },
   {
@@ -496,7 +496,7 @@
     "description": "Sales closing platform. Track and manage your sales pipeline with AI assistance.",
     "category": "CRM, Sales & Scheduling",
     "logo_url": "https://logo.clearbit.com/iclosed.io",
-    "image_url": "",
+    "image_url": "https://lpl-client-research.b-cdn.net/paidadstech/tool-iclosed-screenshot.png",
     "order": 6
   }
 ]
