@@ -1,0 +1,33 @@
+# PaidAdsTech
+
+> Explore 800+ sales tools across 100+ categories. Curated, tested and organised for easy discovery.
+
+Website: https://www.paidadstech.com
+
+## Categories
+
+- [Sales Tools](https://www.paidadstech.com/category/sales-tools/) (0 tools)
+- [Outreach Copywriting](https://www.paidadstech.com/category/outreach-copywriting/) (0 tools)
+- [GTM Engineering](https://www.paidadstech.com/category/gtm-engineering/) (0 tools)
+- [Email Deliverability](https://www.paidadstech.com/category/email-deliverability/) (2 tools)
+- [Business Growth](https://www.paidadstech.com/category/business-growth/) (2 tools)
+- [AI & Automation](https://www.paidadstech.com/category/ai-automation/) (5 tools)
+
+## Tools
+
+- [Prospeo](https://prospeo.io/?ref=paidadstech) — AI & Automation
+- [FullEnrich](https://fullenrich.com/?ref=paidadstech) — Business Growth
+- [Better Contact](https://bettercontact.rocks/?ref=paidadstech) — AI & Automation
+- [Premium Inboxes](https://premiuminboxes.com/?ref=paidadstech) — Email Deliverability
+- [Scaled Mail](https://scaledmail.com/?ref=paidadstech) — Email Deliverability
+- [Kaspr](https://kaspr.io/?ref=paidadstech) — AI & Automation
+- [Lemlist](https://lemlist.com/?ref=paidadstech) — AI & Automation
+- [Smartlead](https://smartlead.ai/?ref=paidadstech) — AI & Automation
+- [Smartlead](https://smartlead.ai/?ref=paidadstech) — Business Growth
+
+## About
+
+PaidAdsTech is a curated directory of the best tools for paid advertising, sales, outreach, and growth. Built by Landing Page Labs.
+
+Submit your tool: https://www.paidadstech.com/submit/
+Contact: https://www.landingpagelabs.co/meet-with-tyce

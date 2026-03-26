@@ -1,0 +1,83 @@
+[
+  {
+    "name": "Prospeo",
+    "slug": "prospeo",
+    "url": "https://prospeo.io",
+    "category": "AI & Automation",
+    "logo_url": "https://cdn.prod.website-files.com/697a570245fae17fd3243b26/697a68ba32b1c80d4a4f7b4b_image%203163.png",
+    "image_url": "https://cdn.prod.website-files.com/697a570245fae17fd3243b26/697a68addd065c46c6c29381_Rectangle%201000001844.png",
+    "order": 1
+  },
+  {
+    "name": "FullEnrich",
+    "slug": "fullenrich",
+    "url": "https://fullenrich.com",
+    "category": "Business Growth",
+    "logo_url": "https://cdn.prod.website-files.com/697a570245fae17fd3243b26/697a68e7072dd4548ce98b22_image%203163%20(1).png",
+    "image_url": "https://cdn.prod.website-files.com/697a570245fae17fd3243b26/697a68d6585e3f54556a9b84_Rectangle%201000001844%20(1).png",
+    "order": 2
+  },
+  {
+    "name": "Better Contact",
+    "slug": "better-contact",
+    "url": "https://bettercontact.rocks",
+    "category": "AI & Automation",
+    "logo_url": "https://cdn.prod.website-files.com/697a570245fae17fd3243b26/697a6916c52aab9be8d4b866_image%203163%20(2).png",
+    "image_url": "https://cdn.prod.website-files.com/697a570245fae17fd3243b26/697a692038a0acb84f518051_Rectangle%201000001844%20(2).png",
+    "order": 3
+  },
+  {
+    "name": "Premium Inboxes",
+    "slug": "premium-inboxes",
+    "url": "https://premiuminboxes.com",
+    "category": "Email Deliverability",
+    "logo_url": "https://cdn.prod.website-files.com/697a570245fae17fd3243b26/697a693d1a87ab3be0c5c6e9_image%203163%20(3).png",
+    "image_url": "https://cdn.prod.website-files.com/697a570245fae17fd3243b26/697a693a3d612205008c1211_Rectangle%201000001844%20(3).png",
+    "order": 4
+  },
+  {
+    "name": "Scaled Mail",
+    "slug": "scaled-mail",
+    "url": "https://scaledmail.com",
+    "category": "Email Deliverability",
+    "logo_url": "https://cdn.prod.website-files.com/697a570245fae17fd3243b26/697a695e331b399a0a563596_image%203163%20(4).png",
+    "image_url": "https://cdn.prod.website-files.com/697a570245fae17fd3243b26/697a6953af99bf4437181c4e_Rectangle%201000001844%20(4).png",
+    "order": 5
+  },
+  {
+    "name": "Kaspr",
+    "slug": "kaspr",
+    "url": "https://kaspr.io",
+    "category": "AI & Automation",
+    "logo_url": "https://cdn.prod.website-files.com/697a570245fae17fd3243b26/697a696f2a5124e9a544e6a8_image%203163%20(5).png",
+    "image_url": "https://cdn.prod.website-files.com/697a570245fae17fd3243b26/697a697a46178fab2508f131_Rectangle%201000001844%20(5).png",
+    "order": 6
+  },
+  {
+    "name": "Lemlist",
+    "slug": "lemlist",
+    "url": "https://lemlist.com",
+    "category": "AI & Automation",
+    "logo_url": "https://cdn.prod.website-files.com/697a570245fae17fd3243b26/697a699139db6a8a2a1aa0ab_image%203163%20(6).png",
+    "image_url": "https://cdn.prod.website-files.com/697a570245fae17fd3243b26/697a699231d5d71671cabd2e_Rectangle%201000001844%20(6).png",
+    "order": 7
+  },
+  {
+    "name": "Smartlead",
+    "slug": "smartlead",
+    "url": "https://smartlead.ai",
+    "category": "AI & Automation",
+    "logo_url": "https://cdn.prod.website-files.com/697a570245fae17fd3243b26/697a69e6987e096391baff2b_image%203163%20(7).png",
+    "image_url": "https://cdn.prod.website-files.com/697a570245fae17fd3243b26/697a69e8c603a8b8b91c7043_Rectangle%201000001844%20(7).png",
+    "order": 8
+  },
+  {
+    "name": "Smartlead",
+    "slug": "smartlead-2",
+    "url": "https://smartlead.ai",
+    "category": "Business Growth",
+    "logo_url": "https://cdn.prod.website-files.com/697a570245fae17fd3243b26/697a6a1195cbab86b0fb3d1c_image%203163%20(8).png",
+    "image_url": "https://cdn.prod.website-files.com/697a570245fae17fd3243b26/697a6a202fdbd9ce972a6c1c_Rectangle%201000001844%20(8).png",
+    "order": 9
+  }
+]
