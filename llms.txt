@@ -9,7 +9,7 @@ Website: https://www.paidadstech.com
 - [Ad Creative & Swipe Files](https://www.paidadstech.com/category/ad-creative/) (5 tools)
 - [Landing Pages & Funnels](https://www.paidadstech.com/category/landing-pages-funnels/) (6 tools)
 - [Ad Management](https://www.paidadstech.com/category/ad-management/) (3 tools)
-- [Analytics & Attribution](https://www.paidadstech.com/category/analytics-attribution/) (6 tools)
+- [Analytics & Attribution](https://www.paidadstech.com/category/analytics-attribution/) (7 tools)
 - [Video Hosting & Sales](https://www.paidadstech.com/category/video-hosting/) (4 tools)
 - [Forms & Data Capture](https://www.paidadstech.com/category/forms-data-capture/) (4 tools)
 - [CRM, Sales & Scheduling](https://www.paidadstech.com/category/crm-sales-scheduling/) (6 tools)
@@ -26,9 +26,9 @@ Website: https://www.paidadstech.com
 - [CheckoutChamp](https://www.paidadstech.com/tool/checkoutchamp/) — Checkout & Payments
 - [Clay](https://www.paidadstech.com/tool/clay/) — AI & Automation
 - [ClickFunnels](https://www.paidadstech.com/tool/clickfunnels/) — Landing Pages & Funnels
+- [Convert](https://www.paidadstech.com/tool/convert/) — Analytics & Attribution
 - [Fillout](https://www.paidadstech.com/tool/fillout/) — Forms & Data Capture
 - [Foreplay](https://www.paidadstech.com/tool/foreplay/) — Ad Creative & Swipe Files
-- [Hyros](https://www.paidadstech.com/tool/hyros/) — Analytics & Attribution
 - [Premium Inboxes](https://www.paidadstech.com/tool/premium-inboxes/) — Email Deliverability
 - [Prospeo](https://www.paidadstech.com/tool/prospeo/) — Outreach & Prospecting
 - [Senja](https://www.paidadstech.com/tool/senja/) — Social Proof
@@ -37,6 +37,7 @@ Website: https://www.paidadstech.com
 - [FullEnrich](https://www.paidadstech.com/tool/fullenrich/) — Outreach & Prospecting
 - [GetHookd](https://www.paidadstech.com/tool/gethookd/) — Ad Creative & Swipe Files
 - [Go High Level](https://www.paidadstech.com/tool/go-high-level/) — Landing Pages & Funnels
+- [Hyros](https://www.paidadstech.com/tool/hyros/) — Analytics & Attribution
 - [Madgicx](https://www.paidadstech.com/tool/madgicx/) — Ad Management
 - [Project Blue](https://www.paidadstech.com/tool/project-blue/) — Social Proof
 - [Scaled Mail](https://www.paidadstech.com/tool/scaled-mail/) — Email Deliverability

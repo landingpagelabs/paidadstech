@@ -50,6 +50,16 @@
     "order": 1
   },
   {
+    "name": "Convert",
+    "slug": "convert",
+    "url": "https://www.convert.com/free-trial/?ref=odcznjl",
+    "description": "A/B testing platform trusted by CRO agencies. Test landing pages, funnels, and user experiences with enterprise-grade experimentation.",
+    "category": "Analytics & Attribution",
+    "logo_url": "https://logo.clearbit.com/convert.com",
+    "image_url": "",
+    "order": 1
+  },
+  {
     "name": "Fillout",
     "slug": "fillout",
     "url": "https://fillout.com",
@@ -67,16 +77,6 @@
     "category": "Ad Creative & Swipe Files",
     "logo_url": "https://logo.clearbit.com/foreplay.co",
     "image_url": "https://lpl-client-research.b-cdn.net/paidadstech/tool-foreplay-screenshot.png",
-    "order": 1
-  },
-  {
-    "name": "Hyros",
-    "slug": "hyros",
-    "url": "https://hyros.com",
-    "description": "AI-powered ad attribution tracking. See exactly which ads drive revenue across channels.",
-    "category": "Analytics & Attribution",
-    "logo_url": "https://logo.clearbit.com/hyros.com",
-    "image_url": "https://lpl-client-research.b-cdn.net/paidadstech/tool-hyros-screenshot.png",
     "order": 1
   },
   {
@@ -157,6 +157,16 @@
     "category": "Landing Pages & Funnels",
     "logo_url": "https://logo.clearbit.com/gohighlevel.com",
     "image_url": "https://lpl-client-research.b-cdn.net/paidadstech/tool-go-high-level-screenshot.png",
+    "order": 2
+  },
+  {
+    "name": "Hyros",
+    "slug": "hyros",
+    "url": "https://hyros.com",
+    "description": "AI-powered ad attribution tracking. See exactly which ads drive revenue across channels.",
+    "category": "Analytics & Attribution",
+    "logo_url": "https://logo.clearbit.com/hyros.com",
+    "image_url": "https://lpl-client-research.b-cdn.net/paidadstech/tool-hyros-screenshot.png",
     "order": 2
   },
   {
