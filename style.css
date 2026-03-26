@@ -559,6 +559,187 @@ button { font-family: inherit; }
 /* Hidden category field for filtering */
 .content_item-category { display: none; }
 
+/* Tool card hover enhancement */
+.content_item-cms { transition: transform 0.3s ease, box-shadow 0.3s ease; }
+.content_item-cms:hover { transform: translateY(-3px); box-shadow: 0 8px 24px rgba(0,0,0,0.08); }
+
+
+/* --- Results meta + active filters --- */
+.results-meta {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  margin-bottom: 16px;
+  min-height: 28px;
+}
+
+#resultsCount {
+  font-family: 'TWK Lausanne', Arial, sans-serif;
+  font-size: 13px;
+  font-weight: 300;
+  color: var(--gray-600);
+  white-space: nowrap;
+}
+
+.active-filters {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+}
+.active-filters:empty { display: none; }
+
+.filter-chip {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  padding: 4px 10px;
+  font-size: 12px;
+  font-weight: 400;
+  color: var(--black);
+  background: var(--gray-100);
+  border-radius: 100px;
+  border: 1px solid var(--gray-300);
+  cursor: pointer;
+  transition: all var(--transition);
+  font-family: 'TWK Lausanne', Arial, sans-serif;
+}
+.filter-chip:hover { background: var(--gray-300); }
+.filter-chip__x { font-size: 10px; font-weight: 700; }
+
+
+/* --- Screen reader only --- */
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0,0,0,0);
+  white-space: nowrap;
+  border: 0;
+}
+
+
+/* --- Back to top button --- */
+.back-to-top {
+  display: none;
+  position: fixed;
+  bottom: 24px;
+  right: 24px;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  background: var(--black);
+  color: #fff;
+  border: none;
+  cursor: pointer;
+  z-index: 50;
+  opacity: 0.7;
+  transition: opacity 0.2s;
+  align-items: center;
+  justify-content: center;
+}
+.back-to-top:hover { opacity: 1; }
+.back-to-top.visible { display: flex; }
+
+
+/* --- Tool detail page --- */
+.tool-detail { padding: 32px 0 0; }
+.tool-detail__inner { max-width: 780px; }
+
+.tool-detail__header {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  margin-bottom: 28px;
+}
+
+.tool-detail__logo {
+  width: 64px;
+  height: 64px;
+  border-radius: 12px;
+  object-fit: contain;
+  background: var(--gray-100);
+  flex-shrink: 0;
+}
+
+.tool-detail__name {
+  font-size: 28px;
+  font-weight: 600;
+  letter-spacing: -0.02em;
+  margin-bottom: 4px;
+}
+
+.tool-detail__meta {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 8px;
+}
+
+.tool-detail__tag {
+  display: inline-block;
+  font-size: 12px;
+  font-weight: 400;
+  padding: 4px 10px;
+  border-radius: 100px;
+  background: var(--gray-100);
+  color: var(--gray-700);
+}
+
+.tool-detail__screenshot {
+  width: 100%;
+  border-radius: 12px;
+  border: 1px solid var(--gray-300);
+  margin-bottom: 28px;
+}
+
+.tool-detail__body {
+  display: flex;
+  flex-direction: column;
+  gap: 28px;
+}
+
+.tool-detail__section h2 {
+  font-size: 16px;
+  font-weight: 600;
+  margin-bottom: 10px;
+}
+
+.tool-detail__description {
+  font-size: 15px;
+  color: var(--gray-700);
+  line-height: 1.7;
+}
+
+.tool-detail__details { display: flex; flex-direction: column; }
+
+.tool-detail__detail-row {
+  display: flex;
+  padding: 10px 0;
+  border-bottom: 1px solid var(--gray-300);
+  font-size: 13px;
+}
+.tool-detail__detail-row dt { width: 120px; flex-shrink: 0; font-weight: 600; color: var(--gray-600); }
+.tool-detail__detail-row dd a { color: var(--black); transition: color var(--transition); }
+.tool-detail__detail-row dd a:hover { color: var(--purple-cta); }
+
+.tool-detail__related { margin-top: 40px; }
+.tool-detail__related h2 { font-size: 16px; font-weight: 600; margin-bottom: 16px; }
+
+.tool-detail__cta {
+  display: flex;
+  gap: 10px;
+  margin-top: 32px;
+}
+
+.btn { display: inline-flex; align-items: center; justify-content: center; padding: 10px 20px; font-size: 14px; font-weight: 600; border-radius: 10px; border: none; cursor: pointer; text-decoration: none; transition: all var(--transition); font-family: 'TWK Lausanne', Arial, sans-serif; }
+.btn--primary { background: var(--black); color: #fff; }
+.btn--primary:hover { background: #333; transform: translateY(-1px); box-shadow: 0 2px 8px rgba(0,0,0,0.15); }
+.btn--secondary { background: var(--gray-300); color: #000; }
+.btn--secondary:hover { background: #ddd; }
+
 
 /* --- Load more --- */
 .load-more-wrap { text-align: center; padding: 0; }

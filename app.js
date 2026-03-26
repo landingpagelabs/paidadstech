@@ -158,6 +158,38 @@
 
     grid._matchingCards = matchingCards;
     updateUI();
+    updateActiveFilters();
+  }
+
+  function updateActiveFilters() {
+    var activeFiltersEl = document.getElementById('activeFilters');
+    if (!activeFiltersEl) return;
+    activeFiltersEl.innerHTML = '';
+
+    if (filters.category) {
+      var chip = document.createElement('button');
+      chip.className = 'filter-chip';
+      chip.innerHTML = filters.category + ' <span class="filter-chip__x">&times;</span>';
+      chip.addEventListener('click', function () {
+        filters.category = '';
+        Array.from(categoryItems).forEach(function (b) { b.classList.remove('is-active'); });
+        if (categoryItems[0]) categoryItems[0].classList.add('is-active');
+        applyFilters();
+      });
+      activeFiltersEl.appendChild(chip);
+    }
+
+    if (filters.search) {
+      var chip = document.createElement('button');
+      chip.className = 'filter-chip';
+      chip.innerHTML = '"' + filters.search + '" <span class="filter-chip__x">&times;</span>';
+      chip.addEventListener('click', function () {
+        filters.search = '';
+        if (searchInput) searchInput.value = '';
+        applyFilters();
+      });
+      activeFiltersEl.appendChild(chip);
+    }
   }
 
   function showMore() {
@@ -171,6 +203,13 @@
   }
 
   function updateUI() {
+    // Results count
+    var resultsCount = document.getElementById('resultsCount');
+    if (resultsCount) {
+      var hasFilters = filters.category || filters.search;
+      resultsCount.textContent = hasFilters ? totalVisible + ' tool' + (totalVisible !== 1 ? 's' : '') + ' found' : totalVisible + ' tool' + (totalVisible !== 1 ? 's' : '');
+    }
+
     if (loadMoreWrap) {
       if (loadMoreObserver) {
         loadMoreWrap.style.display = 'none';
@@ -208,6 +247,21 @@
   var footerYear = document.getElementById('footerYear');
   if (footerYear) {
     footerYear.textContent = new Date().getFullYear();
+  }
+
+  // --- Back to top button ---
+  var backToTop = document.getElementById('backToTop');
+  if (backToTop) {
+    window.addEventListener('scroll', function () {
+      if (window.scrollY > 800) {
+        backToTop.classList.add('visible');
+      } else {
+        backToTop.classList.remove('visible');
+      }
+    });
+    backToTop.addEventListener('click', function () {
+      window.scrollTo({ top: 0, behavior: 'smooth' });
+    });
   }
 
 })();
