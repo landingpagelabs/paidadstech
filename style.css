@@ -164,7 +164,7 @@ button { font-family: inherit; }
 .banner {
   z-index: 100;
   background-color: #f8f8fc;
-  background-image: url("https://cdn.prod.website-files.com/697a3b67fa5cba74f308946d/697a3e716b087a215fc360a9_Banner.avif");
+  background-image: url("https://lpl-client-research.b-cdn.net/paidadstech/banner-bg.avif");
   background-position: 50%;
   background-size: cover;
   width: 100%;
@@ -217,7 +217,7 @@ button { font-family: inherit; }
 
 .title-decor {
   color: transparent;
-  background-image: url("https://cdn.prod.website-files.com/697a3b67fa5cba74f308946d/697a43aef2716e5ed6fd87e5_Group%202147258427%20(1).png");
+  background-image: url("https://lpl-client-research.b-cdn.net/paidadstech/title-decor-1.png");
   background-position: 50%;
   background-size: cover;
   width: 140px;
@@ -228,7 +228,7 @@ button { font-family: inherit; }
 }
 
 .title-decor.img-2 {
-  background-image: url("https://cdn.prod.website-files.com/697a3b67fa5cba74f308946d/697a44312a11faa5fc67c5a0_Group%202147258428.png");
+  background-image: url("https://lpl-client-research.b-cdn.net/paidadstech/title-decor-2.png");
   top: 8px;
 }
 
@@ -256,7 +256,7 @@ button { font-family: inherit; }
 .hero_pattern {
   z-index: 4;
   opacity: 0.7;
-  background-image: url("https://cdn.prod.website-files.com/697a3b67fa5cba74f308946d/697b8914c57084b51661cd19_Pattern%20(2).png");
+  background-image: url("https://lpl-client-research.b-cdn.net/paidadstech/hero-pattern.png");
   background-position: 50%;
   background-size: cover;
   width: 100%;
@@ -268,7 +268,7 @@ button { font-family: inherit; }
 
 .hero_clouds {
   z-index: 3;
-  background-image: url("https://cdn.prod.website-files.com/697a3b67fa5cba74f308946d/697b891fefa2eda6f2099bbb_footer-clouds%202%20(3).avif");
+  background-image: url("https://lpl-client-research.b-cdn.net/paidadstech/hero-clouds.avif");
   background-position: 50%;
   background-size: cover;
   width: 100%;
@@ -602,7 +602,7 @@ button { font-family: inherit; }
 .banner_wrapper.section {
   gap: 0;
   padding: 0;
-  background-image: url("https://cdn.prod.website-files.com/697a3b67fa5cba74f308946d/697a73d29bde48acc986178d_Ad%20(3).png");
+  background-image: url("https://lpl-client-research.b-cdn.net/paidadstech/cta-bg.png");
   background-position: 50%;
   background-size: cover;
   border-radius: 12px;
