@@ -69,6 +69,12 @@ button { font-family: inherit; }
 ::-webkit-scrollbar { width: 5px; height: 5px; background: #fff; }
 ::-webkit-scrollbar-thumb { background: #1E1E1E; border-radius: 1ex; }
 
+/* Focus styles (accessibility) */
+a:focus-visible, button:focus-visible, input:focus-visible, textarea:focus-visible {
+  outline: 2px solid var(--purple-cta);
+  outline-offset: 2px;
+}
+
 
 /* --- Typography --- */
 .heading-1 {
@@ -332,8 +338,8 @@ button { font-family: inherit; }
   justify-content: center;
   align-items: center;
   width: 100%;
-  min-height: 31px;
-  font-size: 12px;
+  min-height: 44px;
+  font-size: 13px;
   line-height: 140%;
   text-decoration: none;
   transition: all var(--transition);
@@ -564,13 +570,15 @@ button { font-family: inherit; }
 .content_item-cms:hover { transform: translateY(-3px); box-shadow: 0 8px 24px rgba(0,0,0,0.08); }
 
 
-/* --- Results meta + active filters --- */
-.results-meta {
+/* --- Results heading + active filters --- */
+.results-heading {
   display: flex;
   align-items: center;
   gap: 12px;
-  margin-bottom: 16px;
+  margin: 0 0 16px;
   min-height: 28px;
+  font-size: 13px;
+  font-weight: 300;
 }
 
 #resultsCount {
