@@ -662,14 +662,15 @@ button { font-family: inherit; }
   position: sticky;
   top: 80px;
   box-shadow: 0 2px 12px rgba(0,0,0,0.06);
+  background: var(--gray-100);
+  padding: 6px;
 }
 
 .tool-page__image {
   width: 100%;
   height: auto;
   display: block;
-  object-fit: cover;
-  object-position: top;
+  border-radius: 8px;
 }
 
 .tool-page__info-col {
