@@ -356,6 +356,15 @@
 
   <link rel="shortcut icon" type="image/x-icon" href="https://lpl-client-research.b-cdn.net/paidadstech/favicon.png">
   <link rel="apple-touch-icon" href="https://lpl-client-research.b-cdn.net/paidadstech/apple-touch-icon.png">
+
+  <!-- Preconnect to CDNs -->
+  <link rel="preconnect" href="https://lpl-client-research.b-cdn.net" crossorigin>
+  <link rel="preconnect" href="https://logo.clearbit.com" crossorigin>
+  <link rel="preconnect" href="https://cdn.jsdelivr.net" crossorigin>
+
+  <!-- Preload main font -->
+  <link rel="preload" href="https://lpl-client-research.b-cdn.net/agencylister/fonts/TWKLausanne-400.woff2" as="font" type="font/woff2" crossorigin>
+
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@8/swiper-bundle.min.css">
   <link rel="stylesheet" href="/style.css">
 </head>
@@ -388,7 +397,7 @@
         <div class="container-large">
           <div class="hero_wrapper">
             <div class="hero_logo">
-              <img src="https://lpl-client-research.b-cdn.net/paidadstech/logo.png" loading="lazy" sizes="(max-width: 587px) 100vw, 587px" srcset="https://lpl-client-research.b-cdn.net/paidadstech/logo.png 500w, https://lpl-client-research.b-cdn.net/paidadstech/logo.png 587w" alt="PaidAdsTech" class="hero_logo-img"/>
+              <img src="https://lpl-client-research.b-cdn.net/paidadstech/logo.png" fetchpriority="high" sizes="(max-width: 587px) 100vw, 587px" srcset="https://lpl-client-research.b-cdn.net/paidadstech/logo.png 500w, https://lpl-client-research.b-cdn.net/paidadstech/logo.png 587w" alt="PaidAdsTech" class="hero_logo-img"/>
             </div>
             <div class="hero_title-wrap">
               <h1 class="heading-1 fz-32">Discover the best tools<br/><span class="title-decor">i</span>for paid ads<span class="title-decor img-2">i</span></h1>
@@ -1456,7 +1465,7 @@
 
   </nav>
 
-  <script src="https://cdn.jsdelivr.net/npm/swiper@8/swiper-bundle.min.js"></script>
+  <script defer src="https://cdn.jsdelivr.net/npm/swiper@8/swiper-bundle.min.js"></script>
   <script>
     var ITEMS_PER_PAGE = 12;
     var FAVICON_DEFAULT = 'https://lpl-client-research.b-cdn.net/paidadstech/favicon.png';
