@@ -16,7 +16,7 @@ Website: https://www.paidadstech.com
 - [Email Deliverability](https://www.paidadstech.com/category/email-deliverability/) (3 tools)
 - [Outreach & Prospecting](https://www.paidadstech.com/category/outreach-prospecting/) (6 tools)
 - [Checkout & Payments](https://www.paidadstech.com/category/checkout-payments/) (1 tools)
-- [Social Proof](https://www.paidadstech.com/category/social-proof/) (2 tools)
+- [Social Proof](https://www.paidadstech.com/category/social-proof/) (1 tools)
 - [AI & Automation](https://www.paidadstech.com/category/ai-automation/) (4 tools)
 
 ## Tools
@@ -39,7 +39,6 @@ Website: https://www.paidadstech.com
 - [Go High Level](https://www.paidadstech.com/tool/go-high-level/) — Landing Pages & Funnels
 - [Hyros](https://www.paidadstech.com/tool/hyros/) — Analytics & Attribution
 - [Madgicx](https://www.paidadstech.com/tool/madgicx/) — Ad Management
-- [Project Blue](https://www.paidadstech.com/tool/project-blue/) — Social Proof
 - [Scaled Mail](https://www.paidadstech.com/tool/scaled-mail/) — Email Deliverability
 - [Triple Whale](https://www.paidadstech.com/tool/triple-whale/) — Analytics & Attribution
 - [Typeform](https://www.paidadstech.com/tool/typeform/) — Forms & Data Capture

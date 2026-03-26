@@ -180,16 +180,6 @@
     "order": 2
   },
   {
-    "name": "Project Blue",
-    "slug": "project-blue",
-    "url": "https://projectblue.ai",
-    "description": "AI-powered social proof and review management for brands and agencies.",
-    "category": "Social Proof",
-    "logo_url": "https://www.google.com/s2/favicons?domain=projectblue.ai&sz=128",
-    "image_url": "",
-    "order": 2
-  },
-  {
     "name": "Scaled Mail",
     "slug": "scaled-mail",
     "url": "https://scaledmail.com",
