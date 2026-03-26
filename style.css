@@ -464,14 +464,17 @@ transition: all var(--transition);
 }
 .content_item-head-icon:hover { opacity: 0.6; }
 .content_item-img-wrap {
-border-radius: 8px;
+border-radius: 10px;
 overflow: hidden;
+border: 1px solid var(--gray-300);
+box-shadow: 0 2px 8px rgba(0,0,0,0.06), 0 0 1px rgba(0,0,0,0.1);
 }
 .content_item-img {
 width: 100%;
-height: auto;
+height: 180px;
 display: block;
-border-radius: 8px;
+object-fit: cover;
+object-position: top;
 }
 .content_item-category { display: none; }
 .content_item-cms { transition: transform 0.3s ease, box-shadow 0.3s ease; }
