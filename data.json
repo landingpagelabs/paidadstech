@@ -6,7 +6,7 @@
     "description": "Bulk upload ads to Meta, Google, and TikTok. Save hours on campaign setup.",
     "category": "Ad Management",
     "logo_url": "https://logo.clearbit.com/adsuploader.com",
-    "image_url": "https://lpl-client-research.b-cdn.net/paidadstech/tool-ads-uploader-screenshot.jpg",
+    "image_url": "https://lpl-client-research.b-cdn.net/paidadstech/tool-ads-uploader-screenshot.png",
     "order": 1
   },
   {
@@ -26,7 +26,7 @@
     "description": "High-converting checkout pages. One-click upsells, order bumps, and A/B testing.",
     "category": "Checkout & Payments",
     "logo_url": "https://logo.clearbit.com/checkoutchamp.com",
-    "image_url": "",
+    "image_url": "https://lpl-client-research.b-cdn.net/paidadstech/tool-checkoutchamp-screenshot.png",
     "order": 1
   },
   {
@@ -36,7 +36,7 @@
     "description": "Data enrichment and AI research agents. Build automated outbound workflows.",
     "category": "AI & Automation",
     "logo_url": "https://logo.clearbit.com/clay.com",
-    "image_url": "https://lpl-client-research.b-cdn.net/paidadstech/tool-clay-screenshot.jpg",
+    "image_url": "https://lpl-client-research.b-cdn.net/paidadstech/tool-clay-screenshot.png",
     "order": 1
   },
   {
@@ -46,7 +46,7 @@
     "description": "All-in-one sales funnel builder. Build landing pages, order forms, and membership sites.",
     "category": "Landing Pages & Funnels",
     "logo_url": "https://logo.clearbit.com/clickfunnels.com",
-    "image_url": "",
+    "image_url": "https://lpl-client-research.b-cdn.net/paidadstech/tool-clickfunnels-screenshot.png",
     "order": 1
   },
   {
@@ -56,7 +56,7 @@
     "description": "A/B testing platform trusted by CRO agencies. Test landing pages, funnels, and user experiences with enterprise-grade experimentation.",
     "category": "Analytics & Attribution",
     "logo_url": "https://logo.clearbit.com/convert.com",
-    "image_url": "",
+    "image_url": "https://lpl-client-research.b-cdn.net/paidadstech/tool-convert-screenshot.png",
     "order": 1
   },
   {
@@ -116,7 +116,7 @@
     "description": "Video hosting built for marketers. Conversion-focused video player with analytics.",
     "category": "Video Hosting & Sales",
     "logo_url": "https://logo.clearbit.com/vidalytics.com",
-    "image_url": "https://lpl-client-research.b-cdn.net/paidadstech/tool-vidalytics-screenshot.webp",
+    "image_url": "https://lpl-client-research.b-cdn.net/paidadstech/tool-vidalytics-screenshot.png",
     "order": 1
   },
   {
@@ -176,7 +176,7 @@
     "description": "AI-powered Meta ads optimisation. Autonomous budget allocation, audiences, and creative testing.",
     "category": "Ad Management",
     "logo_url": "https://logo.clearbit.com/madgicx.com",
-    "image_url": "https://lpl-client-research.b-cdn.net/paidadstech/tool-madgicx-screenshot.jpg",
+    "image_url": "https://lpl-client-research.b-cdn.net/paidadstech/tool-madgicx-screenshot.png",
     "order": 2
   },
   {
@@ -206,7 +206,7 @@
     "description": "Ecommerce analytics and attribution. Track ROAS, LTV, and ad performance in one dashboard.",
     "category": "Analytics & Attribution",
     "logo_url": "https://logo.clearbit.com/triplewhale.com",
-    "image_url": "",
+    "image_url": "https://lpl-client-research.b-cdn.net/paidadstech/tool-triple-whale-screenshot.png",
     "order": 2
   },
   {
@@ -226,7 +226,7 @@
     "description": "Professional video hosting with marketing tools. Lead capture, CTAs, and analytics built in.",
     "category": "Video Hosting & Sales",
     "logo_url": "https://logo.clearbit.com/wistia.com",
-    "image_url": "https://lpl-client-research.b-cdn.net/paidadstech/tool-wistia-screenshot.jpg",
+    "image_url": "https://lpl-client-research.b-cdn.net/paidadstech/tool-wistia-screenshot.png",
     "order": 2
   },
   {
@@ -266,7 +266,7 @@
     "description": "Google's free tool for adding UTM parameters to your campaign URLs.",
     "category": "Ad Management",
     "logo_url": "https://logo.clearbit.com/google.com",
-    "image_url": "",
+    "image_url": "https://lpl-client-research.b-cdn.net/paidadstech/tool-campaign-url-builder-screenshot.png",
     "order": 3
   },
   {
@@ -286,7 +286,7 @@
     "description": "Weekly teardowns of high-converting funnels. Learn what works and why.",
     "category": "Ad Creative & Swipe Files",
     "logo_url": "https://logo.clearbit.com/funneloftheweek.com",
-    "image_url": "",
+    "image_url": "https://lpl-client-research.b-cdn.net/paidadstech/tool-funnel-of-the-week-screenshot.png",
     "order": 3
   },
   {
@@ -306,7 +306,7 @@
     "description": "Visual automation platform. Build complex workflows with drag-and-drop.",
     "category": "AI & Automation",
     "logo_url": "https://logo.clearbit.com/make.com",
-    "image_url": "",
+    "image_url": "https://lpl-client-research.b-cdn.net/paidadstech/tool-make-screenshot.png",
     "order": 3
   },
   {
@@ -336,7 +336,7 @@
     "description": "Visual web design and development platform. Build production-ready sites without code.",
     "category": "Landing Pages & Funnels",
     "logo_url": "https://logo.clearbit.com/webflow.com",
-    "image_url": "https://lpl-client-research.b-cdn.net/paidadstech/tool-webflow-screenshot.jpg",
+    "image_url": "https://lpl-client-research.b-cdn.net/paidadstech/tool-webflow-screenshot.png",
     "order": 3
   },
   {
@@ -346,7 +346,7 @@
     "description": "All-in-one CRM with marketing, sales, and service tools. Free tier available.",
     "category": "CRM, Sales & Scheduling",
     "logo_url": "https://logo.clearbit.com/hubspot.com",
-    "image_url": "https://lpl-client-research.b-cdn.net/paidadstech/tool-hubspot-screenshot.jpg",
+    "image_url": "https://lpl-client-research.b-cdn.net/paidadstech/tool-hubspot-screenshot.png",
     "order": 4
   },
   {
@@ -366,7 +366,7 @@
     "description": "Conversion tracking and attribution for media buyers. Real-time performance data.",
     "category": "Analytics & Attribution",
     "logo_url": "https://logo.clearbit.com/redtrack.io",
-    "image_url": "",
+    "image_url": "https://lpl-client-research.b-cdn.net/paidadstech/tool-redtrack-screenshot.png",
     "order": 4
   },
   {
@@ -376,7 +376,7 @@
     "description": "Curated swipe file of proven ads, emails, and landing pages from top brands.",
     "category": "Ad Creative & Swipe Files",
     "logo_url": "https://logo.clearbit.com/swiped.co",
-    "image_url": "",
+    "image_url": "https://lpl-client-research.b-cdn.net/paidadstech/tool-swiped-co-screenshot.png",
     "order": 4
   },
   {
@@ -386,7 +386,7 @@
     "description": "Free form builder that works like a doc. Simple, fast, and surprisingly powerful.",
     "category": "Forms & Data Capture",
     "logo_url": "https://logo.clearbit.com/tally.so",
-    "image_url": "https://lpl-client-research.b-cdn.net/paidadstech/tool-tally-screenshot.jpg",
+    "image_url": "https://lpl-client-research.b-cdn.net/paidadstech/tool-tally-screenshot.png",
     "order": 4
   },
   {
@@ -396,7 +396,7 @@
     "description": "Landing page builder with Smart Traffic AI that automatically routes visitors to the best-converting variant.",
     "category": "Landing Pages & Funnels",
     "logo_url": "https://logo.clearbit.com/unbounce.com",
-    "image_url": "https://lpl-client-research.b-cdn.net/paidadstech/tool-unbounce-screenshot.jpg",
+    "image_url": "https://lpl-client-research.b-cdn.net/paidadstech/tool-unbounce-screenshot.png",
     "order": 4
   },
   {
@@ -406,7 +406,7 @@
     "description": "Video hosting optimised for sales pages. Fast loading, no branding, conversion-focused.",
     "category": "Video Hosting & Sales",
     "logo_url": "https://logo.clearbit.com/vturb.com",
-    "image_url": "https://lpl-client-research.b-cdn.net/paidadstech/tool-vturb-screenshot.jpg",
+    "image_url": "https://lpl-client-research.b-cdn.net/paidadstech/tool-vturb-screenshot.png",
     "order": 4
   },
   {
@@ -436,7 +436,7 @@
     "description": "CRM built for sales teams. Built-in calling, email, and pipeline management.",
     "category": "CRM, Sales & Scheduling",
     "logo_url": "https://logo.clearbit.com/close.com",
-    "image_url": "",
+    "image_url": "https://lpl-client-research.b-cdn.net/paidadstech/tool-close-screenshot.png",
     "order": 5
   },
   {
@@ -446,7 +446,7 @@
     "description": "Post-click landing page platform built for advertising teams. Personalise pages at scale.",
     "category": "Landing Pages & Funnels",
     "logo_url": "https://logo.clearbit.com/instapage.com",
-    "image_url": "",
+    "image_url": "https://lpl-client-research.b-cdn.net/paidadstech/tool-instapage-screenshot.png",
     "order": 5
   },
   {
@@ -476,7 +476,7 @@
     "description": "Shopify-friendly funnel builder. Build high-converting sales funnels for ecommerce.",
     "category": "Landing Pages & Funnels",
     "logo_url": "https://logo.clearbit.com/funnelish.com",
-    "image_url": "",
+    "image_url": "https://lpl-client-research.b-cdn.net/paidadstech/tool-funnelish-screenshot.png",
     "order": 6
   },
   {
