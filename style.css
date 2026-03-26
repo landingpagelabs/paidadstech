@@ -1138,11 +1138,25 @@ align-items: center;
 transition: all var(--transition);
 display: flex;
 }
+.favourites_item-header {
+display: flex;
+align-items: center;
+gap: 10px;
+}
 .favourites_item-name {
 font-family: 'TWK Lausanne', Arial, sans-serif;
 font-size: 16px;
 font-weight: 500;
 color: var(--black);
+}
+.swiper-button-prev, .swiper-button-next {
+color: var(--black);
+width: 32px;
+height: 32px;
+}
+.swiper-button-prev::after, .swiper-button-next::after {
+font-size: 14px;
+font-weight: 700;
 }
 .favourites_item-logo.logo-2 { max-width: 117px; }
 .favourites_item-logo.logo-3 { max-width: 107px; }
@@ -1184,9 +1198,11 @@ padding: 20px 16px 16px;
 flex-direction: row;
 gap: 8px;
 }
+.content_input-search-wrap { margin-bottom: 0; }
 .content_input-filter-mobile {
 display: flex;
 align-items: center;
+justify-content: center;
 gap: 6px;
 padding: 0 14px;
 height: 48px;
@@ -1197,20 +1213,38 @@ cursor: pointer;
 white-space: nowrap;
 flex-shrink: 0;
 }
-.favourites_title-wrap { display: none; }
+.favourites_title-wrap { display: block; }
+.swiper-pagination { margin-top: 12px; text-align: center; }
+.swiper-pagination-bullet { width: 8px; height: 8px; background: var(--gray-400); border-radius: 50%; display: inline-block; margin: 0 3px; }
+.swiper-pagination-bullet-active { background: var(--black); }
 .cta-main-wrap { width: 100%; }
 .cta-main { width: 100%; justify-content: center; }
+.banner_info-left { padding: 32px 20px 40px; }
+.banner_wrapper.section { flex-direction: column; border-radius: 12px; overflow: hidden; }
+.banner_image { width: 100%; }
+.banner_image img, .banner_img { max-width: 100%; }
 .footer_img.desktop { display: none; }
 .footer_img.mobile { display: block; }
 .footer_logo-img.mobile { display: block; }
 .footer_logo-img.desktop { display: none; }
 .footer_subtext-wrap { display: none; }
+.footer_logo { margin-bottom: 24px; text-align: center; }
+.footer_logo img { margin: 0 auto; }
+.footer_menu { margin-bottom: 32px; }
+.footer_image { margin-bottom: 32px; }
+.footer_copyright {
+flex-direction: column;
+gap: 12px;
+align-items: center;
+text-align: center;
+}
+.footer_copyright-text-wrap { justify-content: center; max-width: none; }
+.footer_copyright-caption { margin-top: 8px; }
 .body-regular.gray-2.mobile { display: block; }
 .body-regular.gray-2.desktop { display: none; }
 .mobile-only { display: block; }
 .desktop-only { display: none; }
 #tools { scroll-margin-top: 80px; }
-.footer_copyright { flex-direction: column; gap: 12px; align-items: flex-start; }
 }
 @media (max-width: 479px) {
 .cta-main { font-size: 18px; }
