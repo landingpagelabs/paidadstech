@@ -36,7 +36,7 @@
     "description": "Data enrichment and AI research agents. Build automated outbound workflows.",
     "category": "AI & Automation",
     "logo_url": "https://logo.clearbit.com/clay.com",
-    "image_url": "",
+    "image_url": "https://lpl-client-research.b-cdn.net/paidadstech/tool-clay-screenshot.jpg",
     "order": 1
   },
   {
@@ -106,7 +106,7 @@
     "description": "Collect and display testimonials. Beautiful widgets for your landing pages and ads.",
     "category": "Social Proof",
     "logo_url": "https://logo.clearbit.com/senja.io",
-    "image_url": "",
+    "image_url": "https://lpl-client-research.b-cdn.net/paidadstech/tool-senja-screenshot.png",
     "order": 1
   },
   {
@@ -226,7 +226,7 @@
     "description": "Connect your apps and automate workflows. 6,000+ integrations.",
     "category": "AI & Automation",
     "logo_url": "https://logo.clearbit.com/zapier.com",
-    "image_url": "",
+    "image_url": "https://lpl-client-research.b-cdn.net/paidadstech/tool-zapier-screenshot.png",
     "order": 2
   },
   {
@@ -406,7 +406,7 @@
     "description": "Open-source workflow automation. Self-hostable alternative to Zapier.",
     "category": "AI & Automation",
     "logo_url": "https://logo.clearbit.com/n8n.io",
-    "image_url": "",
+    "image_url": "https://lpl-client-research.b-cdn.net/paidadstech/tool-n8n-screenshot.png",
     "order": 4
   },
   {
