@@ -656,18 +656,20 @@ button { font-family: inherit; }
 }
 
 .tool-page__image-wrap {
-  background: var(--gray-100);
   border: 1px solid var(--gray-300);
   border-radius: 12px;
   overflow: hidden;
   position: sticky;
   top: 80px;
+  box-shadow: 0 2px 12px rgba(0,0,0,0.06);
 }
 
 .tool-page__image {
   width: 100%;
   height: auto;
   display: block;
+  object-fit: cover;
+  object-position: top;
 }
 
 .tool-page__info-col {
