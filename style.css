@@ -982,7 +982,7 @@ position: relative;
 .footer_disclaimer {
 font-size: 12px;
 font-weight: 300;
-color: var(--gray-600);
+color: var(--gray-700);
 text-align: center;
 line-height: 140%;
 }
@@ -1007,11 +1007,11 @@ margin-top: 48px;
 padding-top: 24px;
 border-top: 1px solid var(--gray-300);
 }
-.category-cross-links h3 {
+.category-cross-links h2 {
 font-size: 14px;
 font-weight: 600;
 margin-bottom: 12px;
-color: var(--gray-600);
+color: var(--gray-700);
 }
 .category-cross-links__list {
 display: flex;
