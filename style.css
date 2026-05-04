@@ -23,7 +23,7 @@ font-weight: 300; font-style: normal; font-display: swap;
 }
 @font-face {
 font-family: 'TWK Lausanne';
-src: url('https://lpl-client-research.b-cdn.net/agencylister/fonts/TWKLausanne-400.woff2') format('woff2');
+src: url('/fonts/TWKLausanne-400.woff2') format('woff2');
 font-weight: 400; font-style: normal; font-display: swap;
 }
 @font-face {
@@ -225,7 +225,7 @@ left: 0;
 }
 .hero_clouds {
 z-index: 3;
-background-image: url("https://lpl-client-research.b-cdn.net/paidadstech/hero-clouds.avif");
+background-image: url("/img/hero-clouds.avif");
 background-position: 50%;
 background-size: cover;
 width: 100%;
