@@ -1,31 +1,5 @@
 (function () {
 'use strict';
-// --- Swiper carousel ---
-if (typeof Swiper !== 'undefined' && document.getElementById('favoriteSwiper')) {
-new Swiper('#favoriteSwiper', {
-direction: 'horizontal',
-slidesPerView: 1.2,
-spaceBetween: 12,
-pagination: {
-el: '.swiper-pagination',
-clickable: true
-},
-navigation: {
-nextEl: '.swiper-button-next',
-prevEl: '.swiper-button-prev'
-},
-breakpoints: {
-480: {
-slidesPerView: 2,
-spaceBetween: 12
-},
-769: {
-slidesPerView: 4,
-spaceBetween: 16
-}
-}
-});
-}
 // --- Config ---
 var itemsPerPage = (typeof ITEMS_PER_PAGE !== 'undefined') ? ITEMS_PER_PAGE : 12;
 // --- DOM refs ---

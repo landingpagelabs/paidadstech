@@ -251,10 +251,15 @@ top: 50%;
 left: 0;
 transform: translateY(-50%);
 }
-.favourites_slider .swiper-wrapper {
-align-items: stretch;
+.favourites_slider-wrap {
+min-height: 220px;
 }
-.favourites_slider-item.swiper-slide {
+.favourites_slider {
+display: grid;
+grid-template-columns: repeat(4, 1fr);
+gap: 16px;
+}
+.favourites_slider-item {
 gap: 12px;
 border: 1px solid var(--gray-200);
 background: var(--gray-100);
@@ -262,7 +267,25 @@ border-radius: 14px;
 flex-direction: column;
 padding: 12px;
 display: flex;
-height: auto;
+}
+@media (max-width: 768px) {
+.favourites_slider {
+grid-template-columns: none;
+grid-auto-flow: column;
+grid-auto-columns: calc((100% - 12px) / 1.2);
+gap: 12px;
+overflow-x: auto;
+scroll-snap-type: x mandatory;
+scroll-padding-left: 0;
+-webkit-overflow-scrolling: touch;
+padding-bottom: 4px;
+}
+.favourites_slider::-webkit-scrollbar { display: none; }
+.favourites_slider { scrollbar-width: none; }
+.favourites_slider-item { scroll-snap-align: start; }
+}
+@media (min-width: 481px) and (max-width: 768px) {
+.favourites_slider { grid-auto-columns: calc((100% - 12px) / 2); }
 }
 .favourites_item-logo {
 width: 100%;
@@ -492,7 +515,7 @@ font-weight: 300;
 font-family: 'TWK Lausanne', Arial, sans-serif;
 font-size: 13px;
 font-weight: 300;
-color: var(--gray-600);
+color: var(--gray-700);
 white-space: nowrap;
 }
 .active-filters {
@@ -1152,22 +1175,6 @@ font-size: 16px;
 font-weight: 500;
 color: var(--black);
 }
-.swiper-pagination {
-margin-top: 16px;
-text-align: center;
-display: none;
-}
-.swiper-pagination-bullet {
-width: 8px;
-height: 8px;
-background: var(--gray-400);
-border-radius: 50%;
-display: inline-block;
-margin: 0 4px;
-cursor: pointer;
-}
-.swiper-pagination-bullet-active { background: var(--black); }
-.swiper-button-prev, .swiper-button-next { display: none; }
 .favourites_item-logo.logo-2 { max-width: 117px; }
 .favourites_item-logo.logo-3 { max-width: 107px; }
 .favourites_item-logo.logo-4 { max-width: 87px; }
@@ -1224,7 +1231,6 @@ white-space: nowrap;
 flex-shrink: 0;
 }
 .favourites_title-wrap { display: block; }
-.swiper-pagination { display: block; }
 .cta-main-wrap { width: 100%; }
 .cta-main { width: 100%; justify-content: center; }
 .banner_info-left { padding: 32px 20px 40px; }
