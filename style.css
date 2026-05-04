@@ -993,12 +993,12 @@ height: 6px;
 .breadcrumb {
 text-align: center;
 font-size: 13px;
-color: var(--gray-600);
+color: var(--gray-700);
 margin-bottom: 8px;
 }
-.breadcrumb a { color: var(--gray-600); transition: color var(--transition); }
+.breadcrumb a { color: var(--gray-700); transition: color var(--transition); }
 .breadcrumb a:hover { color: var(--purple-cta); }
-.breadcrumb__sep { margin: 0 6px; color: var(--gray-400); }
+.breadcrumb__sep { margin: 0 6px; color: var(--gray-700); }
 .category-cross-links {
 margin-top: 48px;
 padding-top: 24px;
