@@ -655,7 +655,7 @@ font-size: 14px;
 }
 .tool-page__detail-label {
 font-weight: 500;
-color: var(--gray-600);
+color: var(--gray-700);
 }
 .tool-page__detail-value {
 color: var(--black);
@@ -678,8 +678,11 @@ font-weight: 600;
 margin: 0 0 20px;
 }
 .tool-page__related .content_list {
+display: grid;
 grid-template-columns: repeat(4, 1fr);
+gap: 16px;
 }
+.tool-page__related .content_list .content_item-cms { width: 100%; }
 @media (max-width: 991px) {
 .tool-page__related .content_list { grid-template-columns: repeat(2, 1fr); }
 }
